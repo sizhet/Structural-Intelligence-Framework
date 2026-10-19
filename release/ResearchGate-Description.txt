@@ -1,0 +1,9 @@
+Structural Intelligence Framework (SIF) — An Open Architecture for Intelligence Localization, Composition, Governance, and Structural Growth (v1.0.0)
+
+Sizhe Tan & GPT-Obot
+
+The Structural Intelligence Framework (SIF) is a research architecture for organizing, composing, evaluating, and evolving heterogeneous intelligence capabilities beyond isolated models or fixed toolchains. It introduces four interacting functional domains: intelligence localization, per-node intelligence, universal control planes and scoring/folding, and residual-based structural growth. Its proposed mechanisms include bidirectional Problem–Capability Maps, Structural Precedent Intelligence, Universal Naming, Typing and Relay (UNT-R), Structural Intelligence Contracts (SIC), portable intelligence pieces and units (PIRP/PIRU), and a Multi-Intelligence Adversarial Sandbox (MIAS) for evidence, counter-evidence, and evaluator governance. The framework also investigates collective structural learning, macro-intelligence pieces, structural perception horizons, and perspective-relative ASI. Version 1.0.0 provides 18 research manuscripts, four candidate technical specifications, and three research-planning documents. These are conceptual proposals and testable hypotheses, not claims of completed empirical validation or established standards.
+
+GitHub repository: https://github.com/sizhet/Structural-Intelligence-Framework
+License: Apache-2.0
+DOI: To be added after Zenodo registration.
