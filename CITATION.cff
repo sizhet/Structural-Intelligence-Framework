@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: >-
+  If you use the Structural Intelligence Framework (SIF) in your research,
+  please cite this repository and its associated archived release.
+title: >-
+  Structural Intelligence Framework: An Open Architecture for Intelligence
+  Localization, Composition, Governance, and Structural Growth
+type: software
+authors:
+  - family-names: Tan
+    given-names: Sizhe
+  - name: GPT-Obot
+version: 1.0.0
+date-released: 2026-10-18
+repository-code: https://github.com/sizhet/Structural-Intelligence-Framework
+url: https://github.com/sizhet/Structural-Intelligence-Framework
+license: Apache-2.0
+keywords:
+  - structural intelligence
+  - open intelligence architecture
+  - intelligence localization
+  - structural precedent intelligence
+  - structural intelligence contract
+  - intelligence interoperability
+  - adversarial validation
+  - structural counter-evidence
+  - open-ended structural growth
+  - collective structural learning
+abstract: >-
+  The Structural Intelligence Framework (SIF) is a research architecture
+  for organizing, locating, composing, governing, evaluating, and evolving
+  heterogeneous intelligence capabilities. It proposes four functional
+  domains, problem-capability dual maps, a structural precedent registry,
+  universal naming, typing and relay, structural intelligence contracts,
+  multi-intelligence adversarial validation, and evidence-governed structural
+  growth. The initial release presents conceptual research and candidate
+  specifications rather than a validated production implementation.
