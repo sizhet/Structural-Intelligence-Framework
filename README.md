@@ -182,5 +182,18 @@ A DOI may be added to the citation metadata after a verified archival release; n
 
 ---
 
+## Authors
+
+**Sizhe Tan & GPT-Obot**
+
+---
+
+## 📚 DBM-SI Series Navigation
+
+See:\
+[./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md](./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md)
+
+---
+
 **Open intelligence requires open discovery, rigorous counter-evidence, interoperable contracts, and deliberate governance.**
 
