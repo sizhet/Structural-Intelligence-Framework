@@ -266,3 +266,6 @@
     An Open Architecture for Intelligence Localization, Composition, Governance, and Structural Growth \
     Repository: https://github.com/sizhet/Structural-Intelligence-Framework
     
+76. Subject–Predicate–Object Structural Intelligence (SPO-SI) - \
+    Subject-Centric World Models, Governed Action, and Recursive Structural Evolution \
+    Repository: https://github.com/sizhet/Subject-Predicate-Object-Structural-Intelligence   
