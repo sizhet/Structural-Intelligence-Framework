@@ -1,54 +1,42 @@
 {
-  "title": "Universal Control Planes and Scoring Tree/Forest/Folding for Structural Intelligence (UCPSF)",
-  "description": "<p>This research repository introduces Universal Control Planes and Scoring Tree/Forest/Folding for Structural Intelligence (UCPSF), a proposed architectural framework connecting Generalized Scoring Intelligence, Scoring Trees and Forests, structural folding, Common Concept Core (CCC) distillation, hybrid intelligence, and governed Structural Recursive Self-Improvement (RSI).</p><p>The framework investigates three proposed Scoring Operator families: Value-Based Folding, Branching-Based Folding, and ANN Scoring Nodes. It explores Unaligned AND Folding across heterogeneous evaluation structures, recursive extraction of reusable Scoring CCCs, Perspective-Aware Meta-Scoring, and adaptive composition of Localization Intelligence and Per-Node Intelligence.</p><p>UCPSF further proposes a Universal Control Plane for coordinating execution, evaluation, evidence, resource allocation, policy enforcement, and governed structural evolution. Particular emphasis is placed on explicit specifications and contracts, independent validation, counter-evidence, anti-Goodhart mechanisms, and authorized structural promotion.</p><p>Version 1.0.0 presents eight core research papers, three conceptual case studies, an architecture figure catalog, and a research roadmap. It is a theory-first research release. The proposed mechanisms, generality claims, and performance hypotheses require further formalization and empirical validation.</p>",
+  "title": "Structural Intelligence Framework: An Open Architecture for Intelligence Localization, Composition, Governance, and Structural Growth",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "description": "<p>The Structural Intelligence Framework (SIF) is a proposed open research architecture for locating, composing, governing, validating, and evolving heterogeneous intelligence structures. Its four functional domains are intelligence localization, per-node intelligence, universal control planes and scoring/folding, and residual-based structural growth. The initial research release introduces problem–capability dual maps, structural precedent intelligence, universal naming/typing/relay, structural intelligence contracts, portable intelligence pieces and units, multi-intelligence adversarial validation, structural counter-evidence, collective learning, and exploratory hypotheses concerning higher-order intelligence and the structural perception horizon.</p><p>Version 1.0.0 contains 18 research manuscripts, four candidate technical specifications, and three research planning documents. The architecture and specifications are research proposals, not experimentally validated standards or claims of achieved artificial superintelligence.</p>",
   "creators": [
     {
       "name": "Tan, Sizhe"
-    }
-  ],
-  "contributors": [
+    },
     {
-      "name": "GPT-Obot",
-      "type": "Other"
+      "name": "GPT-Obot"
     }
   ],
-  "keywords": [
-    "Structural Intelligence",
-    "Generalized Scoring Intelligence",
-    "Scoring Tree",
-    "Scoring Forest",
-    "Structural Folding",
-    "Value-Based Folding",
-    "Branching-Based Folding",
-    "ANN Scoring Nodes",
-    "Unaligned AND Folding",
-    "Common Concept Core",
-    "Recursive CCC Distillation",
-    "Perspective-Aware Optimization",
-    "Meta-Scoring Intelligence",
-    "Hybrid Localization",
-    "Per-Node Intelligence",
-    "Dual-Hybrid Intelligence",
-    "Universal Control Plane",
-    "Structural Recursive Self-Improvement",
-    "AI Relay",
-    "AI Governance",
-    "Anti-Goodhart",
-    "Collective Structural Learning"
-  ],
-  "license": "Apache-2.0",
-  "upload_type": "publication",
-  "publication_type": "technicalnote",
-  "publication_date": "2026-10-15",
-  "version": "1.0.0",
-  "language": "eng",
   "access_right": "open",
+  "license": "Apache-2.0",
+  "keywords": [
+    "Structural Intelligence Framework",
+    "Open Structural Intelligence",
+    "Intelligence Localization",
+    "Per-Node Intelligence",
+    "Problem-Capability Dual Maps",
+    "Structural Precedent Intelligence",
+    "Structural Intelligence Contract",
+    "Universal Naming Typing and Relay",
+    "Multi-Intelligence Adversarial Sandbox",
+    "Structural Counter-Evidence",
+    "Residual-Based Structural Growth",
+    "Collective Structural Learning",
+    "Structural Perception Horizon",
+    "AI Governance"
+  ],
   "related_identifiers": [
     {
-      "identifier": "https://github.com/sizhet/Universal-Control-Planes-and-Scoring-Folding",
+      "identifier": "https://github.com/sizhet/Structural-Intelligence-Framework",
       "relation": "isSupplementTo",
-      "scheme": "url"
+      "resource_type": "software"
     }
   ],
-  "notes": "UCPSF v1.0.0 is a conceptual research and architecture release by Sizhe Tan, developed with GPT-Obot as an AI research and writing collaborator. The repository presents proposed mechanisms and research hypotheses rather than completed implementations or independently validated experimental results. The DOI will be assigned upon Zenodo archiving."
+  "version": "1.0.0",
+  "language": "eng",
+  "notes": "Initial conceptual research release. The four specifications are candidate research designs requiring conformance testing and independent validation."
 }
