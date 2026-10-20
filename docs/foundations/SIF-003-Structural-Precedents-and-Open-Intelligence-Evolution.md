@@ -15,6 +15,12 @@ The Structural Intelligence Framework (SIF) treats known intelligence structures
 
 ---
 
+![Structural Growth and Evolution Loop](../../figures/Fig-007-Structural-Growth-and-Evolution-Loop.png)
+
+![Perception Horizon and Worldview Growth](../../figures/Fig-008-Perception-Horizon-and-Worldview-Growth.png)
+
+---
+
 ## 1. Introduction: From Isolated Solutions to an Evolving Body of Intelligence
 
 Contemporary intelligent systems often solve problems by applying a model, algorithm, workflow, or toolchain selected for a particular task. These methods can be powerful, yet the reusable *structure of the solution* is not always made explicit. A successful deployment may remain a one-off application; a failed deployment may disappear without leaving a useful record of its limits.

@@ -17,6 +17,12 @@ Artificial intelligence is commonly organized around individual models, algorith
 
 **Keywords:** Structural Intelligence Framework; open-ended intelligence; intelligence localization; per-node intelligence; structural precedents; dual maps; universal contracts; relay API; scoring forest; counter-evidence; adversarial sandbox; structural growth; perception horizon.
 
+---
+
+![SIF Grand Architecture](../../figures/Fig-001-SIF-Grand-Architecture.png)
+
+---
+
 ## 1. Introduction: Beyond the Isolated Intelligence Paradigm
 
 Much of AI development is described in terms of a model, a family of models, or a narrowly defined agent architecture. This viewpoint is useful for measuring individual capabilities, but incomplete as a description of the total space of intelligence-bearing computation. A language model, a rule engine, a constraint solver, a simulator, a time-series forecaster, a graph-search procedure, and a human-guided policy system each have different strengths, limitations, assumptions, and evidence requirements.

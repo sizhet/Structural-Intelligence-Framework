@@ -14,6 +14,10 @@ The Structural Intelligence Framework (SIF) organizes heterogeneous intelligence
 
 ---
 
+![Four Functional Domains](../../figures/Fig-002-Four-Functional-Domains.png)
+
+---
+
 ## 1. Motivation: From Isolated Algorithms to Functional Organization
 
 Contemporary computational intelligence spans language models, retrieval systems, symbolic engines, numerical solvers, simulations, optimizers, and specialized software. These capabilities are often discussed as separate techniques or arranged in taxonomies based on implementation. Such catalogs are useful, but insufficient for answering four operational questions:
