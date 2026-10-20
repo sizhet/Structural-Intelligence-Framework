@@ -14,6 +14,14 @@ Open structural intelligence requires more than an inventory of heterogeneous mo
 
 ---
 
+![Structural Growth and Evolution Loop](../../figures/Fig-007-Structural-Growth-and-Evolution-Loop.png)
+
+![Perception Horizon and Worldview Growth](../../figures/Fig-008-Perception-Horizon-and-Worldview-Growth.png)
+
+![Multi-Intelligence Adversarial Sandbox](../../figures/Fig-006-Multi-Intelligence-Adversarial-Sandbox.png)
+
+---
+
 ## 1. Motivation: Portability Is Not Merely Serialization
 
 A language model, a differential-tree router, a numerical optimizer, a simulation engine, and a policy evaluator can all contribute to a solution. Yet placing their descriptions in one registry does not make them composable. A successful handoff requires agreement on meaning, inputs, outputs, context, resource limits, evidence, failure reporting, and permissible actions.

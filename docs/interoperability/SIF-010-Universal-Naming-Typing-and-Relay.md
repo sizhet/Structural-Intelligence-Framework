@@ -17,6 +17,10 @@ The Structural Intelligence Framework (SIF) treats intelligence as an open, evol
 
 ---
 
+![Universal Contracts and Relay](../../figures/Fig-004-Universal-Contracts-and-Relay.png)
+
+---
+
 ## 1. The Interoperability Problem
 
 An isolated intelligent component can succeed within its own representation, tooling, and operating assumptions. A structural intelligence system must coordinate components whose assumptions may differ radically. A natural-language planner may express a task as a narrative; an optimizer may require a constrained mathematical program; a simulation engine may accept a stochastic state model; and a policy service may accept only formally typed requests.

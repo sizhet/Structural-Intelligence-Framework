@@ -15,6 +15,10 @@ An intelligence system cannot reliably compose its capabilities unless it can de
 
 ---
 
+![Problem–Capability Dual Maps](../../figures/Fig-003-Problem-Capability-Dual-Maps.png)
+
+---
+
 ## 1. The interoperability problem
 
 A conventional system may expose tools through names and APIs yet still lack a reliable account of *when* to use them. A task planner may specify desired outcomes but have no dependable representation of available solvers. A model can generate a plausible tool call while overlooking assumptions, permissions, evidence quality, or alternatives.

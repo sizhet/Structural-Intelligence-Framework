@@ -15,6 +15,10 @@ A structural intelligence system cannot grow reliably by accumulating tools alon
 
 ---
 
+![Structural Precedent Intelligence](../../figures/Fig-005-Structural-Precedent-Intelligence.png)
+
+---
+
 ## 1. Why an Intelligence System Needs Precedents
 
 A conventional tool catalog answers a narrow question: *What tools are available?* A mature structural intelligence system must answer several harder questions:
