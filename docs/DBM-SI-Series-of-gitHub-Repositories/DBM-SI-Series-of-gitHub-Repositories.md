@@ -269,3 +269,7 @@
 76. Subject–Predicate–Object Structural Intelligence (SPO-SI) - \
     Subject-Centric World Models, Governed Action, and Recursive Structural Evolution \
     Repository: https://github.com/sizhet/Subject-Predicate-Object-Structural-Intelligence   
+
+77. Universal Intelligence Evolution and Relay Unit (UIERU) - \
+    From Governed Calling Paths and Scoring Forests to Multi-Trail Exploration, Collective Relay, and Open-Ended Structural Evolution \
+    Repository: https://github.com/sizhet/Universal-Intelligence-Evolution-and-Relay-Unit       
