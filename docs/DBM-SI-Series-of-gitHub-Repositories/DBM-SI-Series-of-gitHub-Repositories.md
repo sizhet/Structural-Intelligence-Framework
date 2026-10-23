@@ -273,3 +273,18 @@
 77. Universal Intelligence Evolution and Relay Unit (UIERU) - \
     From Governed Calling Paths and Scoring Forests to Multi-Trail Exploration, Collective Relay, and Open-Ended Structural Evolution \
     Repository: https://github.com/sizhet/Universal-Intelligence-Evolution-and-Relay-Unit       
+
+78. Beyond UIERU: Dynamic Structural Intelligence and Open Research Relay \
+    Repository: https://github.com/sizhet/Beyond-UIERU-Dynamic-Structural-Intelligence
+
+79. Musical Structural Intelligence and Open-Ended Evolution (MSI-OEE) \
+    From Musical UIERUs and Romantic Intelligence to Perspective Scoring, Structural Relay, and Human–AI Co-Evolution \
+    Repository: https://github.com/sizhet/Musical-Structural-Intelligence-and-Open-Ended-Evolution
+
+80. Strategic Structural Intelligence and Competitive UIRTU-Relay (SSICR) \
+    From Multi-Strategy Simulation to Comparative Advantage Maps, Strategic Worldviews, and Human Strategic Sovereignty \
+    Repository: https://github.com/sizhet/Strategic-Structural-Intelligence-and-Competitive-UIRTU-Relay
+
+81. Chess as a Strategic Structural Intelligence Laboratory (Chess-SSIL) \
+    From Competitive UIRTU-Relay to Autonomous Strategy Evolution and Collective Learning \
+    Repository: https://github.com/sizhet/Chess-Strategic-Structural-Intelligence-Laboratory
