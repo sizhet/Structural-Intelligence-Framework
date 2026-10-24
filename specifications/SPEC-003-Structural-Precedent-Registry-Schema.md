@@ -528,7 +528,17 @@ These are research hypotheses, not empirical conclusions. They require appropria
 - **Fig-006 — Multi-Intelligence Adversarial Sandbox:** after Section 11, illustrating candidate testing and independent challenge.
 - **Fig-007 — Structural Growth and Evolution Loop:** after Section 17, illustrating how failures and residuals return to discovery.
 
-Use repository-relative paths such as `../figures/Fig-005-Structural-Precedent-Intelligence.png` when inserting illustrations into this specification.
+![Fig-003-Problem-Capability-Dual-Maps.png](../figures/Fig-003-Problem-Capability-Dual-Maps.png)
+
+![Fig-005-Structural-Precedent-Intelligence.png](../figures/Fig-005-Structural-Precedent-Intelligence.png)
+
+![Fig-004-Universal-Contracts-and-Relay.png](../figures/Fig-004-Universal-Contracts-and-Relay.png)
+
+![Fig-006-Multi-Intelligence-Adversarial-Sandbox.png](../figures/Fig-006-Multi-Intelligence-Adversarial-Sandbox.png)
+
+![Fig-007-Structural-Growth-and-Evolution-Loop.png](../figures/Fig-007-Structural-Growth-and-Evolution-Loop.png)
+
+![Fig-008-Perception-Horizon-and-Worldview-Growth.png](../figures/Fig-008-Perception-Horizon-and-Worldview-Growth.png)
 
 ## 23. Conclusion
 

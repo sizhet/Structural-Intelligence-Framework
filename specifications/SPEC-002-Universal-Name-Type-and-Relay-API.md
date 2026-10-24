@@ -474,6 +474,12 @@ UNT-R cannot guarantee that a capability is intelligent, that its output is corr
 
 **Recommended illustration:** `figures/Fig-004-Universal-Contracts-and-Relay.png`, placed after Section 2 or Section 5, with a caption distinguishing the capability contract from the relay envelope. `figures/Fig-003-Problem-Capability-Dual-Maps.png` may be cited near Section 11; `figures/Fig-006-Multi-Intelligence-Adversarial-Sandbox.png` near Section 15.
 
+---
+
+![Fig-004-Universal-Contracts-and-Relay.png](../figures/Fig-004-Universal-Contracts-and-Relay.png)
+
+---
+
 ## 19. Conclusion
 
 Universal Name, Type, and Relay is proposed as the **interoperability membrane** of an open Structural Intelligence Framework. Names allow heterogeneous intelligence to be addressed; layered types make boundary assumptions explicit; relay operations enable controlled composition; and evidence, provenance, and policy preserve accountability across the resulting graphs. The central engineering discipline is to make interoperability **testable without pretending that interoperability implies truth or authority**.
