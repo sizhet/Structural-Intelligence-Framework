@@ -50,7 +50,11 @@ Three engineering responsibilities are also distinct:
 
 The **Structural Problem-Solving Map (PSM)** expresses tasks, constraints, and desired outcomes. The **Structural Capability Map (SCM)** expresses available capacities and their relationships. **Bidirectional Structural Intelligence Mapping (BSIM)** matches the two. SIC provides the inspectable boundary objects needed to make those matches meaningful.
 
-**Figure placement:** `../../figures/Fig-003-Problem-Capability-Dual-Maps.png` may be inserted after this section.
+---
+
+![Fig-003-Problem-Capability-Dual-Maps.png](../../figures/Fig-003-Problem-Capability-Dual-Maps.png)
+
+---
 
 ## 3. PIRP and PIRU: Freedom and Formality
 
@@ -174,7 +178,11 @@ lifecycle:
 
 A schema reference alone is insufficient when the schema lacks semantic units, temporal validity, uncertainty representation, or provenance.
 
-**Figure placement:** `../../figures/Fig-004-Universal-Contracts-and-Relay.png` may be inserted after this section.
+---
+
+![Fig-004-Universal-Contracts-and-Relay.png](../../figures/Fig-004-Universal-Contracts-and-Relay.png)
+
+---
 
 ## 5. Universal Naming, Typing, and Relay (UNT-R)
 
@@ -316,7 +324,11 @@ Separate authorization, monitoring, revision, retirement
 
 The growth mechanism should also be open to revision. An improvement to the matcher, contract language, evaluator, or relay adapter can be as valuable as a new solver.
 
-**Figure placement:** `../../figures/Fig-007-Structural-Growth-and-Evolution-Loop.png` may be inserted after this section.
+---
+
+![Fig-007-Structural-Growth-and-Evolution-Loop.png](../../figures/Fig-007-Structural-Growth-and-Evolution-Loop.png)
+
+---
 
 ## 10. Multi-Intelligence Adversarial Validation
 
@@ -335,7 +347,11 @@ Useful tests include interface conformance, semantic round-trip checks, distribu
 
 A sandbox cannot establish universal correctness. Its results must be tied to tested distributions, assumptions, versions, and evaluation procedures. For high-stakes contexts, independent external review and domain-specific assurance may be necessary.
 
-**Figure placement:** `../../figures/Fig-006-Multi-Intelligence-Adversarial-Sandbox.png` may be inserted after this section.
+---
+
+![Fig-006-Multi-Intelligence-Adversarial-Sandbox.png](../../figures/Fig-006-Multi-Intelligence-Adversarial-Sandbox.png)
+
+---
 
 ## 11. Worked Conceptual Example: Inventory Planning Relay
 
@@ -460,14 +476,5 @@ The long-term objective is not one frozen universal intelligence format. It is a
 > **Standardize the contract, not the intelligence. Preserve the boundary conditions, not merely the payload. Permit discovery broadly; authorize action deliberately.**
 
 ---
-
-## Figure Placement Guide
-
-| Figure | Suggested insertion |
-|---|---|
-| `Fig-003-Problem-Capability-Dual-Maps.png` | After Section 2 |
-| `Fig-004-Universal-Contracts-and-Relay.png` | After Section 4 |
-| `Fig-007-Structural-Growth-and-Evolution-Loop.png` | After Section 9 |
-| `Fig-006-Multi-Intelligence-Adversarial-Sandbox.png` | After Section 10 |
 
 *This manuscript is a research proposal. Its contract examples, classifications, and lifecycle descriptions are candidate designs requiring independent implementation and empirical validation.*

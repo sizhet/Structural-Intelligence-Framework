@@ -71,6 +71,12 @@ where:
 
 This tuple is a **research scaffold**, not a universal numeric metric. The components may be partially ordered, incomparable, or dependent on the task domain. A larger vocabulary does not necessarily imply a wider horizon.
 
+---
+
+![Fig-008-Perception-Horizon-and-Worldview-Growth.png](../../figures/Fig-008-Perception-Horizon-and-Worldview-Growth.png)
+
+---
+
 ## 3. Why Structural Growth May Change Perception
 
 SIF organizes intelligence into four functional domains. Each may influence the horizon in a distinct way.
@@ -99,6 +105,12 @@ If a scoring system rewards only the currently measured variables, novel distinc
 ### 3.4 Residuals as prompts, not proof
 
 A residual is an observed discrepancy, failure, uncertainty, or unaddressed requirement relative to a model and evaluation context. It may indicate a missing capability, incorrect representation, unsuitable perspective, insufficient resources, faulty instrumentation, or a noisy measurement. Diagnosis must precede claims of structural novelty.
+
+---
+
+![Fig-001-SIF-Grand-Architecture.png](../../figures/Fig-001-SIF-Grand-Architecture.png)
+
+---
 
 ## 4. The Proposed Perception–Growth Feedback Loop
 
@@ -148,6 +160,12 @@ The loop can stall, contract, or regress. New perspectives may increase uncertai
 
 These outcomes form no automatic ladder. A system can improve on one axis while regressing on another.
 
+---
+
+![Fig-007-Structural-Growth-and-Evolution-Loop.png](../../figures/Fig-007-Structural-Growth-and-Evolution-Loop.png)
+
+---
+
 ## 5. Perspective Shifts and the Limits of a Single Map
 
 The Structural Problem-Solving Map (PSM) captures goals, constraints, and task dependencies. The Structural Capability Map (SCM) captures available methods, interfaces, and evidence. Bidirectional Structural Intelligence Mapping (BSIM) matches the two and identifies residuals.
@@ -163,6 +181,12 @@ We therefore propose a **Perspective Review** at selected points in BSIM:
 5. Update the PSM, SCM, or both only with versioned evidence and explicit authority.
 
 Perspective Review is a research mechanism rather than a finalized SIF protocol. It should be invoked selectively, because unlimited perspective generation is computationally costly and can degrade decision quality.
+
+---
+
+![Fig-003-Problem-Capability-Dual-Maps.png](../../figures/Fig-003-Problem-Capability-Dual-Maps.png)
+
+---
 
 ## 6. Structural Precedents and Perceptual Inheritance
 
@@ -183,6 +207,12 @@ A perception-relevant precedent record may contain:
 | Contract and provenance | Version, identity, context, authorship, and governance |
 
 A precedent does not confer universal truth. Reuse requires contextual matching, adaptation, and renewed validation. This is especially important when transferring a worldview across organizations, cultures, scientific disciplines, or environments.
+
+---
+
+![Fig-005-Structural-Precedent-Intelligence.png](../../figures/Fig-005-Structural-Precedent-Intelligence.png)
+
+---
 
 ## 7. World Models, Causality, and Structural Unfolding
 
@@ -258,6 +288,12 @@ The Multi-Intelligence Adversarial Sandbox (MIAS) can assess candidate worldview
 6. **Policy authority:** determines whether and where validated changes may be used.
 
 The sandbox should separate **exploratory discovery**, **shadow evaluation**, and **authorized production**. Evaluators themselves require periodic challenge to reduce Goodhart effects. Recursive challenge must be bounded by explicit risk and resource budgets.
+
+---
+
+![Fig-006-Multi-Intelligence-Adversarial-Sandbox.png](../../figures/Fig-006-Multi-Intelligence-Adversarial-Sandbox.png)
+
+---
 
 ## 12. Worked Conceptual Case: Supply-Chain Blind Spots
 
@@ -371,17 +407,6 @@ The governing proposition is:
 The words **may** and **evidence-governed** are essential. Without independent tests, explicit counter-evidence, and controlled authority, apparent worldview growth is only a claim.
 
 ---
-
-## Figure Placement Guidance
-
-- **Fig-001-SIF-Grand-Architecture.png** — after Section 3, to situate perception growth within the four functional domains.
-- **Fig-003-Problem-Capability-Dual-Maps.png** — after Section 5, to show how Perspective Review interrogates both maps.
-- **Fig-005-Structural-Precedent-Intelligence.png** — after Section 6, to illustrate transfer of validated distinctions and negative precedents.
-- **Fig-006-Multi-Intelligence-Adversarial-Sandbox.png** — after Section 11, to illustrate independent testing and governance boundaries.
-- **Fig-007-Structural-Growth-and-Evolution-Loop.png** — after Section 4, to visualize the conditional feedback cycle.
-- **Fig-008-Perception-Horizon-and-Worldview-Growth.png** — after Section 2 or Section 18, as the paper's signature figure.
-
-Images are planned assets; these references do not imply that the files are already present.
 
 ## Suggested Citation
 

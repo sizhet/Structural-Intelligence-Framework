@@ -32,6 +32,12 @@ SIF treats scaling as a **multi-dimensional engineering and scientific problem**
 
 These questions motivate the scaling axes developed below. They are research variables, not an assertion that every axis must improve every task.
 
+---
+
+![Fig-001-SIF-Grand-Architecture.png](../../figures/Fig-001-SIF-Grand-Architecture.png)
+
+---
+
 ## 2. Four Primary Scaling Axes
 
 ### 2.1 Large Structures — Structural Breadth and Reach
@@ -90,6 +96,12 @@ The four primary axes become more useful when accompanied by at least four compl
 Universal Naming, Typing and Relay (UNT-R), Structural Intelligence Contracts (SIC), and PIRP/PIRU units enable structural breadth to become executable composition. Relay fidelity measures whether semantics, context, evidence, constraints, and responsibility survive handoffs.
 
 Without interoperability, the system may possess many capabilities but be unable to combine them reliably.
+
+---
+
+![Fig-004-Universal-Contracts-and-Relay.png](../../figures/Fig-004-Universal-Contracts-and-Relay.png)
+
+---
 
 ### 3.2 Evidence and Evaluation Quality
 
@@ -153,6 +165,12 @@ Positive interaction suggests complementarity; negative interaction suggests int
 
 These are **functional domains**, not mutually exclusive software layers. An LLM, world model, or scoring forest may participate in several domains. Their roles should be identified through contracts and evidence rather than fixed taxonomy.
 
+---
+
+![Fig-002-Four-Functional-Domains.png](../../figures/Fig-002-Four-Functional-Domains.png)
+
+---
+
 ## 6. Compute Allocation Through Structural Guidance
 
 ### 6.1 From Uniform Spending to Conditional Spending
@@ -164,6 +182,12 @@ Consider three strategies for a task portfolio:
 - **Evidence-guided structural:** route, inspect precedent applicability, estimate uncertainty, selectively decompose, challenge high-impact claims, and preserve residuals.
 
 The third strategy can be more efficient when task heterogeneity is high and routing overhead is controlled. It may be less efficient for simple or highly uniform workloads.
+
+---
+
+![Fig-003-Problem-Capability-Dual-Maps.png](../../figures/Fig-003-Problem-Capability-Dual-Maps.png)
+
+---
 
 ### 6.2 A Budgeted Dispatch Objective
 
@@ -213,6 +237,12 @@ A validated multi-step workflow may become a PIRU. A collection of PIRUs may bec
 
 **Higher-order composition is not automatically emergent intelligence.** Evidence of a new capability requires comparison against appropriately resourced baselines, including the uncomposed components, straightforward ensembles, and conventional orchestration.
 
+---
+
+![Fig-007-Structural-Growth-and-Evolution-Loop.png](../../figures/Fig-007-Structural-Growth-and-Evolution-Loop.png)
+
+---
+
 ## 8. The Third AI Stream: Structural Discovery and Growth
 
 SIF distinguishes a prospective research and engineering stream alongside AI coding and AI-assisted writing/research: **AI Structural Discovery and Growth (AI-SDGS)**.
@@ -245,6 +275,12 @@ SIF distinguishes:
 A claimed expansion of the Structural Perception Horizon requires prospective tasks, independent evaluators, evidence of novel representations, and ablation tests ruling out simpler explanations such as added context or brute-force search.
 
 See [SIF-015 — Structural Perception Horizon and Worldview Growth](SIF-015-Structural-Perception-Horizon-and-Worldview-Growth.md).
+
+---
+
+![Fig-008-Perception-Horizon-and-Worldview-Growth.png](../../figures/Fig-008-Perception-Horizon-and-Worldview-Growth.png)
+
+---
 
 ## 10. Conceptual Case Study: Supply-Chain Resilience
 
@@ -309,6 +345,12 @@ Permit sandboxed structural proposals, then require independent evaluation befor
 
 Use blinded assessments of newly proposed relations or problem decompositions. Require explanatory and predictive value, not merely persuasive narratives. Record negative results and alternative explanations.
 
+---
+
+![Fig-006-Multi-Intelligence-Adversarial-Sandbox.png](../../figures/Fig-006-Multi-Intelligence-Adversarial-Sandbox.png)
+
+---
+
 ## 13. Failure Modes and Limits
 
 | Failure mode | Consequence | Mitigation or test |
@@ -368,20 +410,6 @@ The central claim is modest but consequential: scaling an intelligence system sh
 Whether such scaling can eventually extend a system's Structural Perception Horizon remains an open empirical question. SIF provides a vocabulary and an experimental agenda for asking it without confusing architectural ambition with established fact.
 
 > **Scale the structure, deepen the inquiry, guide the computation, and challenge the evidence.**
-
----
-
-## Suggested Figure Placement
-
-- **Fig-001 — SIF Grand Architecture:** after Section 1, to situate scaling within the overall SIF architecture.
-- **Fig-002 — Four Functional Domains:** after Section 5, to connect scaling axes to domain responsibilities.
-- **Fig-003 — Problem–Capability Dual Maps:** after Section 6.1, to illustrate guided compute allocation.
-- **Fig-004 — Universal Contracts and Relay:** after Section 3.1, to illustrate interoperability as a scaling enabler.
-- **Fig-006 — Multi-Intelligence Adversarial Sandbox:** after Section 12, to visualize independent validation.
-- **Fig-007 — Structural Growth and Evolution Loop:** after Section 7 or 8, to illustrate iterative growth.
-- **Fig-008 — Perception Horizon and Worldview Growth:** after Section 9, to distinguish capability gains from worldview reconstruction.
-
-*The figures are planned assets; their absence does not affect the readability of this text.*
 
 ---
 

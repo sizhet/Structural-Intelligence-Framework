@@ -62,6 +62,12 @@ The registry mediates between two distinct maps:
 
 **Suggested figure:** `../../figures/Fig-003-Problem-Capability-Dual-Maps.png` — place here to show PSM ↔ SPR ↔ SCM.
 
+---
+
+![Fig-003-Problem-Capability-Dual-Maps.png](../../figures/Fig-003-Problem-Capability-Dual-Maps.png)
+
+---
+
 ## 3. What Counts as a Structural Precedent?
 
 A **structural precedent** is a versioned record asserting that a specified intelligence structure, under documented conditions, produced or failed to produce an observed outcome relevant to a problem class.
@@ -320,6 +326,12 @@ The residual determines whether to:
 
 **Suggested figure:** `../../figures/Fig-005-Structural-Precedent-Intelligence.png` — place here to depict retrieve → distinguish → adapt → validate → register.
 
+---
+
+![Fig-005-Structural-Precedent-Intelligence.png](../../figures/Fig-005-Structural-Precedent-Intelligence.png)
+
+---
+
 ## 8. Registry–Runtime Separation and Universal Relay
 
 The registry describes and justifies potential intelligence structures; the runtime executes authorized ones. This separation reduces the risk that a compelling retrieved case becomes an unreviewed action.
@@ -346,6 +358,12 @@ Before invocation, the runtime must independently confirm:
 The registry should never act as an implicit authority issuer.
 
 **Suggested figure:** `../../figures/Fig-004-Universal-Contracts-and-Relay.png` — place here to show registry references and runtime invocation boundaries.
+
+---
+
+![Fig-004-Universal-Contracts-and-Relay.png](../../figures/Fig-004-Universal-Contracts-and-Relay.png)
+
+---
 
 ## 9. Structural Counter-Evidence and Adversarial Registry Governance
 
@@ -383,6 +401,12 @@ The registry should not overwrite conflicting evidence with a single consensus l
 Trust may depend on reproducibility, independent replication, source integrity, and relevance to the deployment context. Popularity, frequency of reuse, or model-generated enthusiasm are not substitutes for evidence.
 
 **Suggested figure:** `../../figures/Fig-006-Multi-Intelligence-Adversarial-Sandbox.png` — place here to illustrate registry promotion under adversarial challenge.
+
+---
+
+![Fig-006-Multi-Intelligence-Adversarial-Sandbox.png](../../figures/Fig-006-Multi-Intelligence-Adversarial-Sandbox.png)
+
+---
 
 ## 10. Lifecycle: From Candidate to Retired Precedent
 
@@ -449,6 +473,12 @@ Useful residual classes include localization, representation, capability, compos
 A validated new structure becomes a candidate capability definition and precedent; its failures become negative cases. Thus SPR participates in an **open structural growth loop** without asserting that every residual has a solvable or discoverable answer.
 
 **Suggested figure:** `../../figures/Fig-007-Structural-Growth-and-Evolution-Loop.png` — place here to show residual → candidate → challenge → precedent update.
+
+---
+
+![Fig-007-Structural-Growth-and-Evolution-Loop.png](../../figures/Fig-007-Structural-Growth-and-Evolution-Loop.png)
+
+---
 
 ## 12. Illustrative Case: Supply-Chain Disruption Planning
 
@@ -593,20 +623,6 @@ The proposed Structural Precedent Registry makes this memory explicit. By linkin
 That visibility turns the registry from a static archive into a potential participant in open-ended structural growth:
 
 > **Reuse what has earned evidence; distinguish what has changed; challenge what remains uncertain; and preserve the residual from which a better intelligence structure may emerge.**
-
----
-
-## Figure Placement Guide
-
-| Figure | Suggested placement | Purpose |
-|---|---|---|
-| `Fig-003-Problem-Capability-Dual-Maps.png` | After §2 | Registry as bridge between demand and capability. |
-| `Fig-005-Structural-Precedent-Intelligence.png` | After §7 | Precedent retrieval, distinction, adaptation, validation. |
-| `Fig-004-Universal-Contracts-and-Relay.png` | After §8 | Contracts, identity, and authorized invocation. |
-| `Fig-006-Multi-Intelligence-Adversarial-Sandbox.png` | After §9 | Adversarial evidence and promotion process. |
-| `Fig-007-Structural-Growth-and-Evolution-Loop.png` | After §11 | Residual-driven learning and registry evolution. |
-
-*Figure references are placeholders until the planned image assets are added to the repository.*
 
 ---
 

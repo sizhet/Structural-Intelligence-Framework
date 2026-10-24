@@ -64,6 +64,12 @@ SIF's Portable Intelligence Runtime Pieces and Units provide a useful distinctio
 
 These concepts are not mutually exclusive. A MIP can begin as an exploratory PIRP and mature into a PIRU-like contract-bearing unit. Conversely, a PIRU may wrap an elementary capability rather than a macro composition. **Macro** describes structural scope; **portable** describes transfer and interoperability; **validated** describes an evidentiary status.
 
+---
+
+![Fig-001-SIF-Grand-Architecture.png](../../figures/Fig-001-SIF-Grand-Architecture.png)
+
+---
+
 ## 2. What Makes a Structure Higher-Order?
 
 Not every multi-agent workflow is a higher-order intelligence structure. A collection of agents that passes messages may provide only orchestration. We distinguish four levels of claims:
@@ -216,6 +222,16 @@ The Structural Precedent Registry (SPR) should distinguish:
 
 A successful case in one operating regime must not be promoted into a universal capability claim.
 
+---
+
+![Fig-005-Structural-Precedent-Intelligence.png](../../figures/Fig-005-Structural-Precedent-Intelligence.png)
+
+---
+
+![Fig-003-Problem-Capability-Dual-Maps.png](../../figures/Fig-003-Problem-Capability-Dual-Maps.png)
+
+---
+
 ## 6. The Macro-Intelligence Contract
 
 A candidate MIP contract can extend the SIC without inventing an incompatible standard:
@@ -259,6 +275,12 @@ Even if output and input schemas align, composition can fail because of differin
 
 If components A and B each perform well in isolation, their joint error rate is not determined without understanding dependence, feedback, and distribution shift. Correlated errors and feedback loops can dominate. A MIP therefore requires **end-to-end evidence** in addition to component-level records.
 
+---
+
+![Fig-004-Universal-Contracts-and-Relay.png](../../figures/Fig-004-Universal-Contracts-and-Relay.png)
+
+---
+
 ## 7. Multi-Intelligence Adversarial Validation
 
 A proposed higher-order capability should be tested within the **Multi-Intelligence Adversarial Sandbox (MIAS)** before any consequential deployment.
@@ -280,6 +302,12 @@ A robust test suite should include component ablations, substitution tests, rela
 
 No promotion should be inferred from a high benchmark score alone.
 
+---
+
+![Fig-006-Multi-Intelligence-Adversarial-Sandbox.png](../../figures/Fig-006-Multi-Intelligence-Adversarial-Sandbox.png)
+
+---
+
 ## 8. Macro-Intelligence and Collective Structural Learning
 
 When MIPs have portable contracts, distinct BrainUnits or organizations can exchange more than isolated prompts or model weights. They may share a *bounded structural capability* with its assumptions, interfaces, validation evidence, and failure history.
@@ -298,6 +326,12 @@ Interoperability does not imply centralized ownership. A federated ecosystem may
 
 A growth engine can itself become a MIP, but this creates a recursive governance challenge. The engine must not unilaterally rewrite its own evaluation criteria, authority, or evidence retention requirements. Candidate modifications to growth mechanisms require independent evaluation and authorization under explicit budgets.
 
+---
+
+![Fig-007-Structural-Growth-and-Evolution-Loop.png](../../figures/Fig-007-Structural-Growth-and-Evolution-Loop.png)
+
+---
+
 ## 9. Macro-Intelligence and the Structural Perception Horizon
 
 SIF-015 introduces the **Structural Perception Horizon (SPH)**: the boundary of distinctions and relations a system can currently represent, detect, and evaluate. MIPs may affect this boundary by combining complementary sensors, representations, simulators, and evaluators.
@@ -312,6 +346,12 @@ It is essential to distinguish:
 - **worldview gain:** changing which entities, relationships, or perspectives the system treats as relevant.
 
 These gains can coexist, but none follows logically from the others. A larger hierarchy is not, by itself, a wider worldview.
+
+---
+
+![Fig-008-Perception-Horizon-and-Worldview-Growth.png](../../figures/Fig-008-Perception-Horizon-and-Worldview-Growth.png)
+
+---
 
 ## 10. Illustrative Case: A Regional Resilience MIP
 
@@ -444,20 +484,6 @@ The central research opportunity is therefore not simply to build larger agent s
 - **SIF-015:** Structural Perception Horizon and Worldview Growth.
 - **SIF-017 (planned):** Scaling Axes and Computational Intelligence Growth.
 - **SIF-018 (planned):** Perspective ASI and the Open Future of Intelligence.
-
-## Figure Placement Guidance
-
-The figures below are planned illustrations, not embedded assets in this document:
-
-| Figure | Recommended insertion point | Purpose |
-|---|---|---|
-| `Fig-001-SIF-Grand-Architecture.png` | After Section 1 | Situate MIPs in the SIF architecture |
-| `Fig-003-Problem-Capability-Dual-Maps.png` | After Section 5 | Show hierarchical PSM–SCM matching |
-| `Fig-004-Universal-Contracts-and-Relay.png` | After Section 6 | Explain MIP boundaries and SIC/UNT-R |
-| `Fig-005-Structural-Precedent-Intelligence.png` | After Section 5.1 | Connect macro precedents to evidence |
-| `Fig-006-Multi-Intelligence-Adversarial-Sandbox.png` | After Section 7 | Show composite-level adversarial validation |
-| `Fig-007-Structural-Growth-and-Evolution-Loop.png` | After Section 8 | Show recursive MIP growth and replacement |
-| `Fig-008-Perception-Horizon-and-Worldview-Growth.png` | After Section 9 | Distinguish scale gains from worldview gains |
 
 ---
 

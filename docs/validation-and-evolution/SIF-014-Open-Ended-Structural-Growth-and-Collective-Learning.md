@@ -170,6 +170,12 @@ A candidate's improvement claim should compare against matched baselines and dis
 
 Rejected candidates can become **negative structural precedents** with explicit reasons, contexts, and counter-evidence. Such records can prevent repeated rediscovery of the same failure, provided they are not overgeneralized beyond their tested boundaries.
 
+---
+
+![Fig-007-Structural-Growth-and-Evolution-Loop.png](../../figures/Fig-007-Structural-Growth-and-Evolution-Loop.png)
+
+---
+
 ## 6. PIRP, PIRU, and the Path from Exploration to Reuse
 
 **Portable Intelligence Runtime Piece (PIRP)** denotes a flexible intelligence artifact that may be incomplete, provisional, or exploratory. **Portable Intelligence Runtime Unit (PIRU)** denotes a more formally specified and interoperable unit with explicit contracts and validation obligations. The transition is not automatic.
@@ -232,6 +238,12 @@ Local policy    -> Share decision  -> Versioned signed reference (optional)  -> 
 
 A relay can use centralized, federated, or peer-to-peer implementations. SIF does not prescribe a single infrastructure topology.
 
+---
+
+![Fig-004-Universal-Contracts-and-Relay.png](../../figures/Fig-004-Universal-Contracts-and-Relay.png)
+
+---
+
 ## 8. Structural Precedent Registry as Collective Memory
 
 The Structural Precedent Registry (SPR) records what was tried, under which conditions, with which evidence, and with what outcomes. In collective learning, a registry is not merely a catalog of successful techniques. It also stores **failed adaptations, disputed evidence, withdrawn claims, incompatible versions, and context-specific exceptions**.
@@ -259,6 +271,12 @@ A structural precedent successful in one environment is a candidate for transfer
 
 If a candidate repeatedly fails under a specific context, the registry can warn against uncritical reuse. Negative precedents should include confidence and scope: a failed test does not imply failure in all settings.
 
+---
+
+![Fig-005-Structural-Precedent-Intelligence.png](../../figures/Fig-005-Structural-Precedent-Intelligence.png)
+
+---
+
 ## 9. Dual Maps and Bidirectional Growth
 
 SIF-008 distinguishes:
@@ -281,6 +299,12 @@ A new algorithm, relay adapter, or hardware platform expands the SCM. Reverse ma
 A new representation may reveal that both maps were incomplete. For example, a supply-chain problem originally represented as route optimization may need to be reframed as a coupled resilience, policy, and inventory-control problem. This is not simply another solver; it is a change in what the system recognizes as the problem.
 
 **The two maps must remain revisable.** Otherwise an ostensibly open architecture can become trapped by a closed taxonomy of problems and capabilities.
+
+---
+
+![Fig-003-Problem-Capability-Dual-Maps.png](../../figures/Fig-003-Problem-Capability-Dual-Maps.png)
+
+---
 
 ## 10. Structural Recursive Self-Improvement with Bounded Governance
 
@@ -333,6 +357,12 @@ A validation plan should test:
 
 A challenger may expose a broken assumption, a misleading evaluator, or an unmodeled dependency. Such evidence should be retained in the registry and used to narrow, repair, or retire the claim. A system that deletes its negative cases cannot learn reliably from structural failure.
 
+---
+
+![Fig-006-Multi-Intelligence-Adversarial-Sandbox.png](../../figures/Fig-006-Multi-Intelligence-Adversarial-Sandbox.png)
+
+--
+
 ## 12. Scaling, Higher-Order Structures, and the Perception Horizon
 
 Open-ended structural growth may operate along several axes:
@@ -358,6 +388,12 @@ A system's **Structural Perception Horizon** is the boundary of distinctions, de
 ### 12.3 World Model versus Worldview
 
 A **World Model** represents states, dynamics, or causal relations in a modeled environment. A **Worldview**, in the narrower SIF research sense, concerns which perspectives, distinctions, scales, and causal questions the architecture considers salient. Structural growth may revise either or both; neither should be assumed complete.
+
+---
+
+![Fig-008-Perception-Horizon-and-Worldview-Growth.png](../../figures/Fig-008-Perception-Horizon-and-Worldview-Growth.png)
+
+---
 
 ## 13. Illustrative Case: Federated Supply-Chain Resilience
 
@@ -511,19 +547,6 @@ The deepest research possibility is reflexive: structural growth may improve not
 - **SIF-015 (planned):** Structural Perception Horizon and Worldview Growth — perspective evolution.
 - **SIF-016 (planned):** Macro-Intelligence Pieces and Higher-Order Structures — structural composition.
 - **SPEC-004 (planned):** Sandbox Evidence and Growth Lifecycle — candidate operational specification.
-
-## Figure Placement Guide
-
-| Planned figure | Suggested placement | Purpose |
-|---|---|---|
-| `Fig-007-Structural-Growth-and-Evolution-Loop.png` | After §5 | Residual-to-candidate-to-validation-to-learning lifecycle |
-| `Fig-005-Structural-Precedent-Intelligence.png` | After §8 | Positive and negative precedents as collective memory |
-| `Fig-003-Problem-Capability-Dual-Maps.png` | After §9 | Problem-driven and capability-driven growth |
-| `Fig-006-Multi-Intelligence-Adversarial-Sandbox.png` | After §11 | Builder, challenger, evaluator, and policy separation |
-| `Fig-008-Perception-Horizon-and-Worldview-Growth.png` | After §12 | Structural growth and expansion of representable perspectives |
-| `Fig-004-Universal-Contracts-and-Relay.png` | After §7 | Selective cross-system exchange under local contracts |
-
-**Editorial note:** These are planned assets; embed figure links only after the corresponding image files are available in the repository.
 
 ---
 

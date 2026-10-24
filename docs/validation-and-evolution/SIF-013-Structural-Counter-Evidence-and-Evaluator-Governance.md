@@ -104,6 +104,12 @@ Severity measures the consequence if the challenge is valid. Confidence measures
 
 Failed transfer, failed composition, and invalid evaluator assumptions are valuable structural precedents. Preserving them helps avoid repeating expensive mistakes and improves future localization.
 
+---
+
+![Fig-005-Structural-Precedent-Intelligence.png](../../figures/Fig-005-Structural-Precedent-Intelligence.png)
+
+---
+
 ## 4. Claim–Evidence–Challenge Protocol
 
 We propose a traceable protocol for every consequential structural growth candidate.
@@ -267,6 +273,12 @@ The roles are logical responsibilities, not necessarily separate organizations o
 
 An automated system may generate and evaluate candidates without human review of every intermediate idea. It must not silently promote those candidates across an authority boundary.
 
+---
+
+![Fig-006-Multi-Intelligence-Adversarial-Sandbox.png](../../figures/Fig-006-Multi-Intelligence-Adversarial-Sandbox.png)
+
+---
+
 ## 9. Registry, Contracts, and Bidirectional Mapping
 
 SCE is most useful when attached to reusable structural artifacts.
@@ -286,6 +298,12 @@ In **Problem-Solving Map → Capability Map** matching, SCE may reveal why a can
 ### 9.4 UNT-R and portability
 
 Universal Naming, Typing, and Relay (UNT-R) provides identity and interface continuity across evaluators, nodes, and organizations. Portable Intelligence Pieces (PIRPs) and Portable Intelligence Units (PIRUs) should carry or reference their claims, constraints, and evidence history. Portability of code or prompts does not automatically imply portability of validity.
+
+---
+
+![Fig-004-Universal-Contracts-and-Relay.png](../../figures/Fig-004-Universal-Contracts-and-Relay.png)
+
+---
 
 ## 10. Counter-Evidence as a Driver of Structural Growth
 
@@ -319,6 +337,12 @@ Growth may occur in localization, per-node computation, control/scoring, or the 
 ### 10.1 Structural Perception Horizon
 
 A challenge may reveal that the current evaluation system cannot represent an important distinction. Such cases may motivate a new perspective, state variable, causal model, or stakeholder objective. This is a proposed pathway from counter-evidence to expansion of the **Structural Perception Horizon**, not an established law of intelligence evolution.
+
+---
+
+![Fig-007-Structural-Growth-and-Evolution-Loop.png](../../figures/Fig-007-Structural-Growth-and-Evolution-Loop.png)
+
+---
 
 ## 11. Conceptual Case: Supply-Chain Planning
 
@@ -430,17 +454,6 @@ An open intelligence framework should preserve all three distinctions. Its credi
 - **SIF-012:** Multi-Intelligence Adversarial Sandbox — experimental environment and challenger roles.
 - **SIF-014 (planned):** Open-Ended Structural Growth and Collective Learning — longer-term evolution mechanisms.
 - **SPEC-004 (planned):** Sandbox Evidence and Growth Lifecycle — candidate operational specification.
-
-## Figure Placement Guide
-
-| Planned figure | Suggested placement | Purpose |
-|---|---|---|
-| `Fig-005-Structural-Precedent-Intelligence.png` | After §3 | Positive and negative precedents as reusable structural evidence |
-| `Fig-006-Multi-Intelligence-Adversarial-Sandbox.png` | After §8 | Builder–challenger–evaluator roles and governance boundaries |
-| `Fig-007-Structural-Growth-and-Evolution-Loop.png` | After §10 | Counter-evidence, residual diagnosis, revision, and retesting |
-| `Fig-004-Universal-Contracts-and-Relay.png` | After §9 | Contract and evidence continuity across heterogeneous nodes |
-
-**Editorial note:** Figure names are reserved for the repository's planned illustration set; figures should be inserted only after their actual assets are available.
 
 ---
 

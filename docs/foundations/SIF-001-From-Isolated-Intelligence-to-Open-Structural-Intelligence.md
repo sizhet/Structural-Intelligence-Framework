@@ -19,10 +19,6 @@ Artificial intelligence is commonly organized around individual models, algorith
 
 ---
 
-![SIF Grand Architecture](../../figures/Fig-001-SIF-Grand-Architecture.png)
-
----
-
 ## 1. Introduction: Beyond the Isolated Intelligence Paradigm
 
 Much of AI development is described in terms of a model, a family of models, or a narrowly defined agent architecture. This viewpoint is useful for measuring individual capabilities, but incomplete as a description of the total space of intelligence-bearing computation. A language model, a rule engine, a constraint solver, a simulator, a time-series forecaster, a graph-search procedure, and a human-guided policy system each have different strengths, limitations, assumptions, and evidence requirements.
@@ -38,6 +34,14 @@ SIF begins with three commitments:
 1. **Openness:** no present inventory is presumed complete; new structures and perspectives may be added, while existing ones may be revised or retired.
 2. **Pluralism:** heterogeneous intelligence methods can coexist without being forced into one internal algorithm or representation.
 3. **Evidence-governed evolution:** claims of improvement require explicit conditions, counter-evidence, and evaluation—not merely additional complexity.
+
+---
+
+![SIF Grand Architecture](../../figures/Fig-001-SIF-Grand-Architecture.png)
+
+*Figure 1. Structural Intelligence Framework: four functional domains, bidirectional problem–capability mapping, interoperability contracts, and evidence-governed structural evolution.*
+
+---
 
 ## 2. What Counts as an Intelligence Structure?
 
@@ -246,12 +250,6 @@ SIF's most ambitious hypothesis is not merely that larger assemblies will solve 
 > **SIF should organize intelligence without enclosing its future.**
 
 ---
-
-## Figure Placement
-
-**Suggested figure:** `../../figures/Fig-001-SIF-Grand-Architecture.png`  
-**Recommended placement:** After Section 1, before Section 2, when the figure is available.  
-**Caption:** *Figure 1. Structural Intelligence Framework: four functional domains, bidirectional problem–capability mapping, interoperability contracts, and evidence-governed structural evolution.*
 
 ## Related SIF Documents
 

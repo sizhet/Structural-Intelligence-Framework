@@ -42,6 +42,12 @@ In an isolated application, policy checks may be embedded inside one program. In
 
 The control domain supplies explicit places to represent and test answers.
 
+---
+
+![Fig-002-Four-Functional-Domains.png](../../figures/Fig-002-Four-Functional-Domains.png)
+
+---
+
 ## 2. Three Distinct Planes
 
 ### 2.1 Policy and authority plane
@@ -170,6 +176,12 @@ The control domain operates on the bridge between these maps:
 
 **Capability matching is not permission matching.** A node may be technically suitable but unauthorized for the proposed context.
 
+---
+
+![Fig-003-Problem-Capability-Dual-Maps.png](../../figures/Fig-003-Problem-Capability-Dual-Maps.png)
+
+---
+
 ## 8. Structural Intelligence Contracts and Relay Boundaries
 
 A candidate **Structural Intelligence Contract (SIC)** connects Universal Name, Universal Type, Relay API, Context, Evidence, and Policy. Control-related contract fields should be explicit, typed where feasible, and versioned.
@@ -200,6 +212,12 @@ structural_intelligence_contract:
 ```
 
 This contract expresses intent, not enforcement by itself. Runtime adapters, identity checks, policy engines, and side-effect isolation are required to enforce declared boundaries. Untrusted output from a delegated node must not be interpreted as a new authorization grant.
+
+---
+
+![Fig-004-Universal-Contracts-and-Relay.png](../../figures/Fig-004-Universal-Contracts-and-Relay.png)
+
+---
 
 ## 9. Multi-Intelligence Adversarial Validation
 
@@ -235,6 +253,12 @@ A useful lifecycle separates:
 
 The word “sandbox” alone is not a safety guarantee: network access, sensitive data, tool permissions, and executable artifacts require concrete isolation controls.
 
+---
+
+![Fig-006-Multi-Intelligence-Adversarial-Sandbox.png](../../figures/Fig-006-Multi-Intelligence-Adversarial-Sandbox.png)
+
+---
+
 ## 10. Structural Counter-Evidence and Anti-Goodhart Controls
 
 A control system must record **counter-evidence** at several levels:
@@ -249,6 +273,12 @@ A control system must record **counter-evidence** at several levels:
 Possible defenses against Goodhart effects include held-out evaluation, rotating adversarial tasks, independently measured outcomes, explicit constraint gates, sensitivity analysis, and evaluation on distribution shifts. None is sufficient alone.
 
 A newly discovered evaluator failure is a growth input: the system may revise a criterion, add a new tree, introduce an independent checker, or restrict deployment. Revisions require new versions and comparison against the prior baseline.
+
+---
+
+![Fig-007-Structural-Growth-and-Evolution-Loop.png](../../figures/Fig-007-Structural-Growth-and-Evolution-Loop.png)
+
+---
 
 ## 11. Worked Conceptual Example: Supply-Chain Disruption
 
@@ -365,14 +395,6 @@ The long-term research opportunity is not to automate every choice behind an opa
 > **Intelligence may propose. Scoring may compare. Evidence may challenge. Authority must still be explicitly assigned.**
 
 ---
-
-## Suggested Figure Placement
-
-- **Fig-002 — Four Functional Domains:** after Section 1, to show the control domain's cross-cutting role.
-- **Fig-003 — Problem–Capability Dual Maps:** after Section 7, to show control across the matching bridge.
-- **Fig-004 — Universal Contracts and Relay:** after Section 8, to illustrate typed authority and evidence handoffs.
-- **Fig-006 — Multi-Intelligence Adversarial Sandbox:** after Section 9, to illustrate candidate and evaluator challenge.
-- **Fig-007 — Structural Growth and Evolution Loop:** after Section 10, to show how counter-evidence changes control structures.
 
 ## Citation Note
 

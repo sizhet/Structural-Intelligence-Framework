@@ -32,6 +32,12 @@ The central principle is:
 
 SIF should preserve the diversity of internal algorithms while making capabilities discoverable, composable, testable, and governable.
 
+---
+
+![Fig-002-Four-Functional-Domains.png](../../figures/Fig-002-Four-Functional-Domains.png)
+
+---
+
 ## 2. What Counts as Per-Node Intelligence?
 
 A conventional program is not necessarily an autonomous intelligent agent. Yet a conventional program can provide an indispensable **intelligence capability** when invoked as part of a larger problem-solving process. A linear-programming solver, for example, need not learn or converse to improve the decisions of a hybrid system.
@@ -148,6 +154,12 @@ sif_contract:
 
 The related specifications are planned as `SPEC-001-SIF-Structural-Intelligence-Contract.md` and `SPEC-002-Universal-Name-Type-and-Relay-API.md`.
 
+---
+
+![Fig-004-Universal-Contracts-and-Relay.png](../../figures/Fig-004-Universal-Contracts-and-Relay.png)
+
+---
+
 ## 6. Problem–Capability Dual Maps
 
 SIF proposes two complementary maps:
@@ -170,6 +182,12 @@ A **Structural Precedent Registry** connects them. A precedent records a problem
 A newly registered node can trigger a search for previously unsolved tasks that match its signature. Thus new capabilities can reveal **new applications and new problem formulations**, not merely serve existing requests.
 
 The dual maps are related to Task CG and Action CG, but are not asserted to be mathematically identical to those earlier constructs.
+
+---
+
+![Fig-003-Problem-Capability-Dual-Maps.png](../../figures/Fig-003-Problem-Capability-Dual-Maps.png)
+
+---
 
 ## 7. Composition Patterns
 
@@ -245,6 +263,12 @@ SIF proposes a **Multi-Intelligence Adversarial Sandbox (MIAS)** in which differ
 Heterogeneous evaluators—formal checkers, simulations, statistical tests, and independent models—may reveal failure modes missed by same-family model debates. Independence must be assessed rather than assumed.
 
 Sandbox exploration does not confer production authority. Proposed promotion stages are **isolated experiment -> shadow evaluation -> explicitly authorized deployment**. Risk controls must apply even inside sandboxes, especially when real tools, sensitive data, or external effects are available.
+
+---
+
+![Fig-006-Multi-Intelligence-Adversarial-Sandbox.png](../../figures/Fig-006-Multi-Intelligence-Adversarial-Sandbox.png)
+
+---
 
 ## 11. Conceptual Case Study: Supply-Chain Disruption Planning
 
@@ -339,13 +363,6 @@ The practical challenge is to make diversity interoperable without erasing it. M
 > **An open intelligence framework should enable each useful capability to find its role—and enable the whole system to discover when that role is no longer sufficient.**
 
 ---
-
-## Suggested Figure Placement
-
-- **Fig-002 — Four Functional Domains:** after Section 1, to situate Per-Node Intelligence within SIF.
-- **Fig-003 — Problem–Capability Dual Maps:** after Section 6, to show the Task CG / Action CG analogy.
-- **Fig-004 — Universal Contracts and Relay:** after Section 5, to illustrate the proposed contract and interface foundation.
-- **Fig-006 — Multi-Intelligence Adversarial Sandbox:** after Section 10, to illustrate validation roles.
 
 ## Citation Note
 

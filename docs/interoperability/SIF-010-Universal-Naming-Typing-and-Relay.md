@@ -233,6 +233,12 @@ A defensible default lifecycle is:
 
 This is a logical sequence, not a mandate that all steps occur in one centralized service.
 
+---
+
+![Fig-004-Universal-Contracts-and-Relay.png](../../figures/Fig-004-Universal-Contracts-and-Relay.png)
+
+---
+
 ## 6. Relay Across the Problem–Capability Dual Maps
 
 SIF-008 distinguishes the **Problem-Solving Map (PSM)** from the **Capability Map (SCM)**. UNT-R supplies their interoperability substrate.
@@ -268,6 +274,12 @@ A multi-hop relay path may contain a sequence of capabilities \(C_1,\ldots,C_n\)
 
 End-to-end validation must also examine preserved meaning, uncertainty, permissions, latency, resource use, and cumulative side effects.
 
+---
+
+![Fig-003-Problem-Capability-Dual-Maps.png](../../figures/Fig-003-Problem-Capability-Dual-Maps.png)
+
+---
+
 ## 7. Structural Intelligence Contracts as the Unit of Interoperability
 
 A **Structural Intelligence Contract (SIC)** is a versioned declaration that binds an intelligence structure to an externally inspectable interface. A candidate contract includes:
@@ -284,6 +296,12 @@ A **Structural Intelligence Contract (SIC)** is a versioned declaration that bin
 | Lifecycle and growth hooks | How is it updated, deprecated, challenged, or replaced? |
 
 SIC is compatible in spirit with the distinction between **Portable Intelligence Runtime Pieces (PIRP)** and **Portable Intelligence Runtime Units (PIRU)**: flexible pieces may enter through adapters and progressive formalization, while more mature units can expose stronger conformance guarantees. UNT-R must not exclude promising intelligence merely because it lacks a complete formal contract; instead, it should restrict what such a component may claim or do until evidence improves.
+
+---
+
+![Fig-005-Structural-Precedent-Intelligence.png](../../figures/Fig-005-Structural-Precedent-Intelligence.png)
+
+---
 
 ## 8. Context Relay and Information Preservation
 
@@ -380,6 +398,12 @@ A growth proposal may introduce a new adapter, a refined type, a more specialize
 
 Open-ended growth therefore does not mean unconstrained automatic deployment. It means the architecture can *propose and evaluate* new intelligence structures without presuming its current vocabulary is complete.
 
+---
+
+![Fig-006-Multi-Intelligence-Adversarial-Sandbox.png](../../figures/Fig-006-Multi-Intelligence-Adversarial-Sandbox.png)
+
+---
+
 ## 12. Proposed Research Hypotheses
 
 The following are testable propositions, not established findings.
@@ -426,6 +450,12 @@ Allow candidate adapters, new types, and macro-nodes to be proposed in an isolat
 
 Recommended measurements include compatibility precision/recall, semantic failure rate, unauthorized-action rate, evidence completeness, latency, cost, reproducibility, and improvement under distribution shift. Report negative results and tradeoffs, not only successful demonstrations.
 
+---
+
+![Fig-007-Structural-Growth-and-Evolution-Loop.png](../../figures/Fig-007-Structural-Growth-and-Evolution-Loop.png)
+
+---
+
 ## 14. Open Questions
 
 1. What is the smallest interoperable contract that preserves useful semantic distinctions across heterogeneous intelligence families?
@@ -469,18 +499,6 @@ The long-term ambition is not a universal vocabulary that freezes the future. It
 > **Standardize the contract, not the intelligence. Preserve the evidence, not merely the output. Govern the action, not the possibility of discovery.**
 
 ---
-
-## Suggested Figure Placement
-
-The following figures are planned assets and are not embedded in this manuscript:
-
-| Figure | Suggested placement | Purpose |
-|---|---|---|
-| `Fig-004-Universal-Contracts-and-Relay.png` | After §5.4 | Naming–Typing–Relay, SIC, and handoff architecture |
-| `Fig-003-Problem-Capability-Dual-Maps.png` | After §6 | PSM–SCM mapping and registry bridge |
-| `Fig-005-Structural-Precedent-Intelligence.png` | After §7 | Contract and precedent evidence relationships |
-| `Fig-006-Multi-Intelligence-Adversarial-Sandbox.png` | After §11 | Testing new adapters and relay candidates |
-| `Fig-007-Structural-Growth-and-Evolution-Loop.png` | After §13 | Residual-to-growth lifecycle |
 
 ## Citation and Status Note
 

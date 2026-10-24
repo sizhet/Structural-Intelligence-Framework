@@ -36,6 +36,12 @@ The central thesis is:
 
 A sandbox is necessary but not sufficient. Isolation reduces operational risk; it does not prove the correctness, completeness, or generalizability of an intelligence structure.
 
+---
+
+![Fig-001-SIF-Grand-Architecture.png](../../figures/Fig-001-SIF-Grand-Architecture.png)
+
+---
+
 ## 2. The Unit of Experiment: A Structural Claim
 
 MIAS evaluates a **structural claim**, rather than only an answer or a benchmark score. A claim identifies what a candidate structure is expected to do, under which conditions, relative to what baseline, and with what consequences if wrong.
@@ -88,6 +94,12 @@ No role should be treated as universally infallible. Independent evaluation may 
 ### 3.1 Role conflicts
 
 A builder evaluating its own proposal introduces selection and confirmation risks. A challenger rewarded only for producing failures may manufacture irrelevant attacks. An evaluator optimized on a public benchmark can become a target for gaming. MIAS therefore records role identity, shared dependencies, incentives, access to held-out tests, and potential conflicts.
+
+---
+
+![Fig-006-Multi-Intelligence-Adversarial-Sandbox.png](../../figures/Fig-006-Multi-Intelligence-Adversarial-Sandbox.png)
+
+---
 
 ## 4. The MIAS Experimental Boundary
 
@@ -146,6 +158,12 @@ Possible outcomes include **reject**, **revise**, **retain as exploratory**, **v
 ### Stage 9 — Monitoring and reopening
 
 Real-world drift, new counter-evidence, changed policy, or new alternatives can reopen a precedent. A validated structural claim is always versioned and bounded.
+
+---
+
+![Fig-005-Structural-Precedent-Intelligence.png](../../figures/Fig-005-Structural-Precedent-Intelligence.png)
+
+---
 
 ## 6. Structural Counter-Evidence: Beyond Wrong Answers
 
@@ -248,6 +266,12 @@ MIAS operates through the same structural interfaces as the rest of SIF.
 
 **Residual-Based Growth.** Failure records feed new diagnosis and discovery cycles. MIAS tests growth claims; it does not guarantee that every residual is solvable or that every novel structure is useful.
 
+---
+
+![Fig-004-Universal-Contracts-and-Relay.png](../../figures/Fig-004-Universal-Contracts-and-Relay.png)
+
+---
+
 ## 11. Illustrative Case: A Supply-Chain Planning Relay
 
 Consider a planning system that composes demand forecasting, inventory optimization, supplier-risk analysis, and a natural-language explanation unit.
@@ -341,6 +365,12 @@ The following hypotheses are proposals, not established findings.
 
 Each phase should publish negative findings, protocol changes, and external validity limits. Progression depends on evidence, not on a fixed calendar.
 
+---
+
+![Fig-007-Structural-Growth-and-Evolution-Loop.png](../../figures/Fig-007-Structural-Growth-and-Evolution-Loop.png)
+
+---
+
 ## 16. Open Research Questions
 
 - How should MIAS quantify meaningful independence among evaluators with partially shared training data and tools?
@@ -380,20 +410,6 @@ The paper also connects conceptually to the broader SIF research on Structural R
 The Multi-Intelligence Adversarial Sandbox is proposed as SIF's evidence-producing laboratory for structural change. Its purpose is not to make a single evaluator all-knowing or to turn every failed test into a new intelligence unit. It is to expose structural claims to relevant opposition, retain both positive and negative evidence, and make the boundary between experimentation and authorized action explicit.
 
 **An open intelligence architecture needs an equally open capacity to discover why its own structures may be wrong.** MIAS operationalizes that principle through heterogeneous challenge, bounded evaluator governance, reproducible evidence, and reversible growth decisions. Whether this approach yields better intelligence must be established through the comparative experiments outlined here.
-
----
-
-## Figure Placement Guide
-
-The following figures are planned assets; links should be inserted once the files exist.
-
-| Figure | Suggested placement | Purpose |
-| --- | --- | --- |
-| `Fig-001-SIF-Grand-Architecture.png` | After Section 1 | Position MIAS within Registry, Runtime, and Evolution Laboratory |
-| `Fig-004-Universal-Contracts-and-Relay.png` | After Section 10 | Show SIC and UNT-R across experiment participants |
-| `Fig-005-Structural-Precedent-Intelligence.png` | After Section 5 | Show evidence and negative precedents feeding SPR |
-| `Fig-006-Multi-Intelligence-Adversarial-Sandbox.png` | After Section 3 or 5 | Depict Builder–Challenger–Evaluator–World Engine roles |
-| `Fig-007-Structural-Growth-and-Evolution-Loop.png` | After Section 15 | Show residual-to-validation-to-governed-growth cycle |
 
 ---
 

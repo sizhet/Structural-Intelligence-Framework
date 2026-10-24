@@ -35,6 +35,12 @@ The central transition is:
 
 A residual is not a guarantee of novelty. The same signal may be caused by noisy data, implementation defects, distribution shift, unrealistic objectives, or inadequate compute. The growth system must discriminate among them.
 
+---
+
+![Fig-002-Four-Functional-Domains.png](../../figures/Fig-002-Four-Functional-Domains.png)
+
+---
+
 ## 2. What Is a Structural Residual?
 
 Let a task instance be represented by a problem specification \(P\), context \(C\), and admissible policy \(\Pi\). Let \(\mathcal{K}_t\) denote the available capability and precedent structures at time \(t\), and \(\mathcal{R}_t\) the available runtime and resource envelope. A SIF execution produces an outcome \(Y_t\) and an evidence record \(E_t\):
@@ -158,6 +164,12 @@ The proposal should identify the baseline architecture, affected dependencies, e
 
 A candidate should not be promoted solely because it wins one benchmark. Acceptance may require demonstrated benefit across relevant contexts, acceptable tail risk, robust calibration, independent challenge, and policy approval. Promotion can be scoped to a task family or context rather than made global.
 
+---
+
+![Fig-007-Structural-Growth-and-Evolution-Loop.png](../../figures/Fig-007-Structural-Growth-and-Evolution-Loop.png)
+
+---
+
 ## 5. Growth Across the Four Functional Domains
 
 ### 5.1 Localization growth
@@ -206,6 +218,12 @@ A registry entry for growth should minimally include:
 | Provenance and dependencies | Support reproduction, attribution, and rollback |
 
 A failed experiment is a useful precedent when its conditions and failure mechanism are preserved. The registry should support distinguishing a new problem from a superficially similar but inapplicable precedent.
+
+---
+
+![Fig-005-Structural-Precedent-Intelligence.png](../../figures/Fig-005-Structural-Precedent-Intelligence.png)
+
+---
 
 ## 8. UNT-R and Structural Intelligence Contracts
 
@@ -267,6 +285,12 @@ Maintain three distinct environments:
 
 A candidate may be free to explore inside a safe sandbox without receiving real-world action permissions. No autonomous growth loop should silently expand its own authority.
 
+---
+
+![Fig-006-Multi-Intelligence-Adversarial-Sandbox.png](../../figures/Fig-006-Multi-Intelligence-Adversarial-Sandbox.png)
+
+---
+
 ## 10. Growth, Folding, and Macro-Intelligence Pieces
 
 Structural growth can increase capability but also complexity. Without compression, dependency management, and evidence preservation, a growing architecture may become harder to understand and govern.
@@ -298,6 +322,12 @@ A hypothesized feedback loop is:
 \]
 
 This is an important research hypothesis, not a demonstrated inevitability. Measuring genuine worldview expansion requires more than observing that a system produces novel descriptions; it requires better grounded distinctions, predictions, interventions, or decisions on independent tasks.
+
+---
+
+![Fig-008-Perception-Horizon-and-Worldview-Growth.png](../../figures/Fig-008-Perception-Horizon-and-Worldview-Growth.png)
+
+---
 
 ## 12. Scaling Axes and Resource Discipline
 
@@ -438,14 +468,6 @@ A growing intelligence system should be capable of **adding, composing, revising
 > **The unresolved residual is not automatically a new intelligence. It is an invitation to discover what the current intelligence architecture cannot yet justify—and to test whether a better structure exists.**
 
 ---
-
-## Figure Placement Guidance
-
-- **Fig-002 — Four Functional Domains:** after Section 1, to position residual growth in the SIF architecture.
-- **Fig-005 — Structural Precedent Intelligence:** after Section 7, to illustrate precedent-guided reuse and structural change.
-- **Fig-006 — Multi-Intelligence Adversarial Sandbox:** after Section 9, to show challenge and evaluation roles.
-- **Fig-007 — Structural Growth and Evolution Loop:** after Section 4, as the main lifecycle diagram.
-- **Fig-008 — Perception Horizon and Worldview Growth:** after Section 11, to distinguish grounded perspective expansion from speculative emergence.
 
 ## Citation
 
