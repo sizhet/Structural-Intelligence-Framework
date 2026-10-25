@@ -5,7 +5,7 @@
 **An Open Architecture for Intelligence Localization, Composition, Governance, and Structural Growth**
 
 **Release:** v1.0.0 — Initial Research Release  
-**Date:** 2026-10-18  
+**Date:** 2026-10-26  
 **Authors:** Sizhe Tan & GPT-Obot  
 **License:** Apache-2.0  
 **Repository:** https://github.com/sizhet/Structural-Intelligence-Framework
