@@ -6,4 +6,4 @@ The Structural Intelligence Framework (SIF) is a research architecture for organ
 
 GitHub repository: https://github.com/sizhet/Structural-Intelligence-Framework
 License: Apache-2.0
-DOI: To be added after Zenodo registration.
+DOI: 10.5281/zenodo.23648359.
