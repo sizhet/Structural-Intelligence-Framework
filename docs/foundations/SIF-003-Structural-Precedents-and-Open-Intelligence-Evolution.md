@@ -3,7 +3,7 @@
 **Structural Intelligence Framework (SIF) — Foundations, Paper 003**  
 **Authors:** Sizhe Tan & GPT-Obot  
 **Version:** 1.0.0  
-**Date:** 2026-10-18  
+**Date:** 2026-10-26  
 **Status:** Research framework and proposed architecture; not an implemented standard  
 **License:** Apache-2.0
 

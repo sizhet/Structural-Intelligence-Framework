@@ -4,7 +4,7 @@
 **Document type:** Foundational research paper  
 **Status:** Research framework / proposed architecture  
 **Version:** 1.0.0  
-**Date:** 2026-10-18  
+**Date:** 2026-10-26  
 **Authors:** Sizhe Tan & GPT-Obot  
 **Repository:** https://github.com/sizhet/Structural-Intelligence-Framework  
 **License:** Apache-2.0

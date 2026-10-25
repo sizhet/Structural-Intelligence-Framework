@@ -3,7 +3,7 @@
 **Structural Intelligence Framework (SIF) — Functional Domains Series**  
 **Version:** 1.0.0 (research framework)  
 **Authors:** Sizhe Tan & GPT-Obot  
-**Date:** 2026-10-18  
+**Date:** 2026-10-26  
 **Status:** Conceptual architecture and testable research agenda; not a validated implementation
 
 ## Abstract
