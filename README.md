@@ -182,14 +182,6 @@ DOI: 10.5281/zenodo.23648359
 
 ---
 
-## Authors
-
-**Sizhe Tan & GPT-Obot**
-
-DOI: 10.5281/zenodo.23648359
-
----
-
 ## 📚 DBM-SI Series Navigation
 
 See:\
