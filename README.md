@@ -178,7 +178,7 @@ At v1.0.0, the repository provides **18 research manuscripts, 4 candidate specif
 **Citation metadata:** [CITATION.cff](CITATION.cff)  
 **Change history:** [CHANGELOG.md](CHANGELOG.md)
 
-A DOI may be added to the citation metadata after a verified archival release; none is asserted here.
+DOI: 10.5281/zenodo.23648359
 
 ---
 
