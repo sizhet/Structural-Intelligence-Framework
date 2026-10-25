@@ -7,8 +7,6 @@
 
 This index provides the canonical filenames, conceptual scope, and suggested placement of the eight SIF figures. Figures illustrate **proposed architecture and research hypotheses**, not empirically verified results. Keep figure filenames and relative paths consistent across the repository.
 
-> **Asset preparation note:** The original eight-panel illustration may need to be exported into eight separate PNG files using the canonical filenames below. An image referenced in Markdown will display only when that individual file exists in `figures/`.
-
 ## Figure Catalog
 
 | No. | Figure | Primary purpose | Canonical path |

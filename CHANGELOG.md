@@ -14,7 +14,7 @@ This project follows the principles of [Keep a Changelog](https://keepachangelog
 - Evidence-governed evaluations of Multi-Intelligence Adversarial Sandbox (MIAS), structural counter-evidence, and evaluator governance.
 - Publication of separately verified figure assets and updated links where needed.
 
-## [1.0.0] - 2026-10-18
+## [1.0.0] - 2026-10-26
 
 ### Added — Research foundations
 
