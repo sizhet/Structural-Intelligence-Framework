@@ -38,9 +38,9 @@ A profile is a **declared conformance target**, not a certification.
 
 An SIC descriptor is a versioned record:
 
-\[
+$$
 \mathrm{SIC} = (I, T, C, S, X, R, E, P, L, G)
-\]
+$$
 
 where:
 
@@ -108,10 +108,10 @@ Schema compatibility is **necessary but not sufficient** for semantic compatibil
 
 A proposed compatibility predicate is:
 
-\[
-\operatorname{Compatible}(a,b,q) =
+$$
+operatorname{Compatible}(a,b,q) =
 T(a,b) \land X(a,b,q) \land P(a,b,q) \land V(a,b,q)
-\]
+$$
 
 Here `T` is syntactic/type compatibility, `X` is contextual applicability, `P` is policy admissibility, and `V` is adequate validation for the task's risk tier. This is a *decision template*, not a complete computable algorithm. Unknown or insufficient evidence MUST NOT be treated as `true` in consequential use.
 
