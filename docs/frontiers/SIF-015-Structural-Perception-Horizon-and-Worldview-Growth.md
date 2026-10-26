@@ -54,9 +54,9 @@ The **Structural Perception Horizon (SPH)** is the boundary of distinctions that
 
 A useful working model is:
 
-\[
+$$
 H = (D, R, G, P, U, V \mid C, B),
-\]
+$$
 
 where:
 

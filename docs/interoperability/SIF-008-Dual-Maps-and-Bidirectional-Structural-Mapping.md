@@ -39,9 +39,9 @@ The separation is analogous to—but broader than—the distinction between a **
 
 Let the PSM be a typed, attributed graph:
 
-\[
+$$
 P = (V_P, E_P, A_P).
-\]
+$$
 
 A problem node represents a demand, subproblem, hypothesis, decision, observation, verification obligation, or outcome. Its attributes may include:
 
@@ -59,9 +59,9 @@ Edges may encode decomposition, prerequisite, alternative, temporal ordering, da
 
 Let the SCM be a typed, attributed graph:
 
-\[
+$$
 C = (V_C, E_C, A_C).
-\]
+$$
 
 A capability node represents an LLM, rule engine, CCC transformation, MDT locator, optimizer, simulation, world model, verifier, human decision function, composite service, or other intelligence piece. Attributes may include:
 
@@ -79,17 +79,17 @@ Edges express composition, substitution, dependency, relay compatibility, proven
 
 A mapping is not merely a string similarity score. Define a candidate relation:
 
-\[
+$$
 M \subseteq V_P \times 2^{V_C} \times \mathcal{K},
-\]
+$$
 
 where a problem node may map to a *set or subgraph* of capabilities, and \(\mathcal{K}\) holds contextual conditions, adaptations, evidence, and governance decisions. The relation may be one-to-one, one-to-many, many-to-one, or absent.
 
 For a candidate mapping \(m\), define an assessment vector:
 
-\[
+$$
 Q(m) = (f, e, r, k, a, u),
-\]
+$$
 
 with **fitness** \(f\), **evidence strength** \(e\), **risk** \(r\), **resource cost** \(k\), **authorization status** \(a\), and **unresolved uncertainty** \(u\). This is a vector, not an automatic scalar score: policy and safety constraints may be non-compensatory.
 

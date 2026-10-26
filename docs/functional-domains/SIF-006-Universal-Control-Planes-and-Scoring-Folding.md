@@ -100,9 +100,9 @@ A Scoring Tree represents an evaluation question as a hierarchy of criteria, evi
 
 A generic conceptual representation is:
 
-\[
+$$
 S(c\mid p, x, e)=A_p\bigl(s_1(c,x,e),\ldots,s_n(c,x,e)\bigr),
-\]
+$$
 
 where \(c\) is a candidate, \(p\) a policy/evaluation perspective, \(x\) context, \(e\) available evidence, \(s_i\) local evaluation functions, and \(A_p\) a declared aggregation rule. This expression is **not** a claim that every criterion is commensurable or reducible to one scalar.
 

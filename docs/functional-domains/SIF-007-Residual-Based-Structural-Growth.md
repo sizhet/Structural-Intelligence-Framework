@@ -45,15 +45,15 @@ A residual is not a guarantee of novelty. The same signal may be caused by noisy
 
 Let a task instance be represented by a problem specification \(P\), context \(C\), and admissible policy \(\Pi\). Let \(\mathcal{K}_t\) denote the available capability and precedent structures at time \(t\), and \(\mathcal{R}_t\) the available runtime and resource envelope. A SIF execution produces an outcome \(Y_t\) and an evidence record \(E_t\):
 
-\[
-(Y_t,E_t) = \operatorname{Execute}(P,C,\mathcal{K}_t,\mathcal{R}_t,\Pi).
-\]
+$$
+(Y_t,E_t) = operatorname{Execute}(P,C,\mathcal{K}_t,\mathcal{R}_t,\Pi).
+$$
 
 Define a **residual record** as a structured diagnostic rather than a single scalar:
 
-\[
-\rho_t = \operatorname{Diagnose}(P,C,Y_t,E_t,\mathcal{K}_t,\Pi).
-\]
+$$
+\rho_t = operatorname{Diagnose}(P,C,Y_t,E_t,\mathcal{K}_t,\Pi).
+$$
 
 A residual record may contain observed discrepancies, confidence intervals, failed assumptions, missing capability signatures, provenance, counterexamples, and uncertainty about the cause. The objective is to avoid conflating *unexplained* with *unexplainable*.
 
@@ -154,9 +154,9 @@ Potential generators include LLMs, symbolic synthesis, evolutionary search, prog
 
 Represent a proposal as a change set:
 
-\[
+$$
 \Delta\mathcal{K} = (\text{add},\text{modify},\text{compose},\text{replace},\text{retire}).
-\]
+$$
 
 The proposal should identify the baseline architecture, affected dependencies, expected benefits, risks, resource requirements, rollback procedure, and explicit falsification tests. Comparing \(\mathcal{K}_t\) with \(\mathcal{K}_t \oplus \Delta\mathcal{K}\) under matched conditions helps separate genuine improvement from changes in workload or evaluation.
 
@@ -301,9 +301,9 @@ Folding must not erase applicability boundaries, uncertainty, provenance, or rol
 
 This leads to a possible hierarchy:
 
-\[
+$$
 \text{Methods} \rightarrow \text{Nodes} \rightarrow \text{Compositions} \rightarrow \text{Macro-Units} \rightarrow \text{Higher-Order Systems}.
-\]
+$$
 
 The arrows indicate possible engineering transformations, not a proven universal evolutionary law.
 
@@ -315,11 +315,11 @@ A **world model** describes states, dynamics, and predictions within some repres
 
 A hypothesized feedback loop is:
 
-\[
+$$
 \text{Structural Growth} \rightarrow \text{New Perceptual Distinctions}
 \rightarrow \text{Reframed Problems} \rightarrow \text{New Residuals}
 \rightarrow \text{Further Structural Growth}.
-\]
+$$
 
 This is an important research hypothesis, not a demonstrated inevitability. Measuring genuine worldview expansion requires more than observing that a system produces novel descriptions; it requires better grounded distinctions, predictions, interventions, or decisions on independent tasks.
 

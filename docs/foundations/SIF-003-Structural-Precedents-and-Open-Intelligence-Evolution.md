@@ -95,9 +95,9 @@ This second direction matters: new capabilities can reveal applications that wer
 
 A conceptual mapping is:
 
-\[
+$$
 \mathcal{M}: (P, C, E, G) \rightarrow \{\text{reuse},\text{adapt},\text{compose},\text{explore}\}
-\]
+$$
 
 where \(P\) is the problem signature, \(C\) the available capability descriptions, \(E\) the evidence and counter-evidence, and \(G\) the governing constraints. This is a functional abstraction, not a specified scoring algorithm.
 

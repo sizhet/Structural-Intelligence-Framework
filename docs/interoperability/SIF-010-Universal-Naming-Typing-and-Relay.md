@@ -151,9 +151,9 @@ The identifiers and fields above are **non-normative examples**. They illustrate
 
 Let a task requirement be \(R\), a candidate capability contract be \(C\), and the operating context be \(X\). A compatibility assessor may produce:
 
-\[
+$$
 J(R,C,X) = (s, A, E, U),
-\]
+$$
 
 where \(s\) is a status such as `compatible`, `conditional`, `incompatible`, or `unknown`; \(A\) records necessary adaptations; \(E\) references supporting and opposing evidence; and \(U\) records unresolved uncertainty.
 
@@ -266,11 +266,11 @@ The mapping is bidirectional. A new task can seek a previously validated capabil
 
 A multi-hop relay path may contain a sequence of capabilities \(C_1,\ldots,C_n\) and adapters \(A_1,\ldots,A_{n-1}\). Path validity cannot be inferred solely from pairwise input/output type compatibility:
 
-\[
-\operatorname{ValidPath}(P,X)
+$$
+operatorname{ValidPath}(P,X)
 \not\Leftarrow
-\bigwedge_i \operatorname{TypeMatch}(C_i,A_i,C_{i+1}).
-\]
+\bigwedge_i operatorname{TypeMatch}(C_i,A_i,C_{i+1}).
+$$
 
 End-to-end validation must also examine preserved meaning, uncertainty, permissions, latency, resource use, and cumulative side effects.
 

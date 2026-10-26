@@ -85,15 +85,15 @@ Level 3 is sufficient for a practical MIP. Level 4 is a stronger empirical claim
 
 Let the capability graph be
 
-\[
+$$
 G=(V,E,\Gamma),
-\]
+$$
 
 where \(V\) contains intelligence units, \(E\) contains typed relay or dependency edges, and \(\Gamma\) contains contracts, policies, and evidence annotations. A candidate macro-unit \(M\) is a bounded subgraph \(G_M\subseteq G\) together with an external interface \(I_M\), context envelope \(C_M\), and evidence set \(Q_M\):
 
-\[
+$$
 M=(G_M,I_M,C_M,Q_M,P_M),
-\]
+$$
 
 where \(P_M\) is its policy envelope. A macro-unit may be represented as a single node in a higher-level graph only when the abstraction preserves the properties required by its intended consumers.
 

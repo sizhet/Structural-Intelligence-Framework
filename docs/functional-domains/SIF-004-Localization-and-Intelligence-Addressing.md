@@ -49,9 +49,9 @@ LLMs deserve first position in this registry because of their breadth and practi
 
 A **Comment Concept Core (CCC)** represents a context-qualified common structure; a residual captures what that core does not explain. A useful conceptual notation is
 
-\[
+$$
 X \approx C_{\mathrm{structural}} \oplus R_{\mathrm{residual}},
-\]
+$$
 
 where \(\oplus\) denotes a domain-specific reconstruction, **not necessarily numerical addition**. Unlike a mean and standard deviation, a CCC may encode conditions, semantics, causal hypotheses, or behavior. A residual may be structural rather than random noise. Metric-space CCC localization should specify the distance function, normalization, context, and rejection criteria; otherwise scores are not comparable.
 
@@ -148,10 +148,10 @@ The procedure may be iterative: new evidence from a node can change the localiza
 
 Let \(c\) be a capability candidate, \(p\) a problem signature, and \(\Gamma\) the relevant context. A conceptual selection rule is:
 
-\[
- c^* \in \operatorname*{arg\,max}_{c\in\mathcal{C}_{\mathrm{admissible}}(p,\Gamma)}
+$$
+ c^* \in operatorname*{arg\,max}_{c\in\mathcal{C}_{\mathrm{admissible}}(p,\Gamma)}
  S(c,p,\Gamma),
-\]
+$$
 
 where admissibility enforces hard type, policy, and resource constraints. The score \(S\) is a configurable evaluation function, not a universal scalar measure of intelligence. Multiobjective or Pareto selection may be preferable where objectives conflict.
 

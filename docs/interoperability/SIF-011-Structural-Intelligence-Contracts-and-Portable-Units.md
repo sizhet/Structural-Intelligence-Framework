@@ -194,9 +194,9 @@ Names should distinguish logical identity from immutable artifact versions and f
 
 A practical identity relation is:
 
-\[
+$$
 \text{Logical Unit} \rightarrow \text{Version} \rightarrow \text{Artifact Digest} \rightarrow \text{Deployment Instance}.
-\]
+$$
 
 Different systems may implement these identities differently; SIF requires explicit mappings, not one universal identifier syntax.
 
@@ -229,10 +229,10 @@ A relay envelope should preserve task identity, contract versions, context refer
 
 Let a task requirement be \(R\), a candidate unit contract be \(C\), and an execution context be \(x\). A candidate match requires a set of independently checked conditions:
 
-\[
-\operatorname{CandidateMatch}(R,C,x)
+$$
+operatorname{CandidateMatch}(R,C,x)
 = T \land S \land X \land G \land B,
-\]
+$$
 
 where \(T\) denotes type compatibility, \(S\) semantic suitability, \(X\) contextual applicability, \(G\) governance feasibility, and \(B\) resource-budget feasibility. Evidence sufficiency should be evaluated separately and can result in a provisional or sandbox-only classification. This Boolean expression is an illustrative design abstraction, not a complete formal semantics.
 
@@ -281,9 +281,9 @@ A high score is not permission. A valid schema is not proof of safety. A product
 
 When a parent workflow delegates to a unit, the delegated permission scope should not exceed the intersection of the parent's authority and the unit's authorized scope:
 
-\[
+$$
 P_{\mathrm{delegated}} \subseteq P_{\mathrm{parent}} \cap P_{\mathrm{unit}}.
-\]
+$$
 
 This is a governance design rule. Real deployments also require enforcement at the actual resource boundary; declarations alone are insufficient.
 

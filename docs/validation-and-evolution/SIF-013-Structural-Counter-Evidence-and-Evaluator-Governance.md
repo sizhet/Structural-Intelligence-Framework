@@ -49,9 +49,9 @@ A **Structural Claim** is an explicit, bounded assertion about how and where an 
 
 A candidate claim may be represented conceptually as:
 
-\[
+$$
 C = (S, P, K, I, O, A, E, G, V)
-\]
+$$
 
 where:
 
@@ -198,13 +198,13 @@ SIF instead proposes **bounded recursive challenge**. Escalation is driven by ri
 
 A conceptual decision rule is:
 
-\[
-\operatorname{ChallengeNext}(E_i) =
+$$
+operatorname{ChallengeNext}(E_i) =
 \begin{cases}
 1, & \text{if expected reduction in decision risk exceeds review cost and budget remains},\\
 0, & \text{otherwise.}
 \end{cases}
-\]
+$$
 
 This is a decision principle, not a validated quantitative formula. It requires explicit estimates or conservative qualitative judgments.
 

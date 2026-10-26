@@ -158,9 +158,9 @@ We propose a nine-stage reference lifecycle:
 
 For candidate structure \(s\), task context \(c\), and resource budget \(b\), a research evaluation might compare:
 
-\[
+$$
 V(s,c,b) = \bigl(Q, R, C, T, I, A\bigr),
-\]
+$$
 
 where \(Q\) is task quality, \(R\) robustness, \(C\) resource cost, \(T\) transferability, \(I\) interoperability, and \(A\) auditability. These are a **vector of measurements**, not automatically a single scalar utility. A policy authority determines constraints and acceptable trade-offs; the evaluator supplies evidence rather than authorization.
 

@@ -158,9 +158,9 @@ This permits heterogeneous units—including flexible **Portable Intelligence Ru
 
 A precedent should explicitly define the region in which transfer is plausible:
 
-\[
+$$
 \mathcal{A}(p) = \{x : C_p(x) \land T_p(x) \land P_p(x) \land R_p(x)\},
-\]
+$$
 
 where \(C_p\) denotes context assumptions, \(T_p\) type compatibility, \(P_p\) policy eligibility, and \(R_p\) resource feasibility. This is a conceptual predicate, not a promise that all conditions are machine-decidable.
 
@@ -277,9 +277,9 @@ This pseudocode specifies desired behavior, not a verified algorithm. Unknown co
 
 Among eligible candidates, a conceptual utility score might be:
 
-\[
+$$
 U(p\mid q) = w_s S(p,q) + w_e E(p,q) + w_t T(p,q) - w_r R(p,q) - w_c C(p,q),
-\]
+$$
 
 where \(S\) measures structural relevance, \(E\) evidence strength, \(T\) transferability, \(R\) estimated risk, and \(C\) resource cost. The weights are context-dependent and require calibration. No weighted sum may override a hard prohibition or missing authorization.
 
@@ -306,9 +306,9 @@ A legal precedent is often useful because a new case can be *distinguished* from
 
 Given a query \(q\) and precedent \(p\), define a structured residual:
 
-\[
+$$
 \Delta(q,p) = \Delta_{context} \oplus \Delta_{types} \oplus \Delta_{constraints} \oplus \Delta_{capability} \oplus \Delta_{evidence} \oplus \Delta_{policy},
-\]
+$$
 
 where \(\oplus\) denotes a collection of typed differences, not necessarily numerical addition.
 

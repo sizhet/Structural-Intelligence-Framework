@@ -40,9 +40,9 @@ The term **Perspective ASI** is used here as a *research construct*, not as a ne
 
 Let a perspective be a specification
 
-\[
+$$
 P=(D,T,M,E,R,H,G),
-\]
+$$
 
 where:
 
@@ -56,9 +56,9 @@ where:
 
 A candidate system \(S\) can be evaluated relative to a comparator population \(B\) through a performance distribution, rather than a single unqualified score:
 
-\[
+$$
 \Delta_P(S,B)=\mathbb{E}_{t\sim T}[U_P(S,t)-U_P(B,t)].
-\]
+$$
 
 Here \(U_P\) is a perspective-specific utility or evaluation function, and uncertainty estimates must accompany empirical estimates of \(\Delta_P\). This expression is an **illustrative formalization**, not a universally accepted intelligence metric.
 
@@ -103,9 +103,9 @@ SIF separates two complementary representations:
 
 **Bidirectional Structural Intelligence Mapping (BSIM)** relates the two:
 
-\[
+$$
 \mathrm{PSM}\;\rightleftarrows\;\mathrm{SCM}.
-\]
+$$
 
 The forward direction locates candidate capabilities for a problem. The reverse direction examines whether a newly discovered capability makes previously impractical tasks feasible or exposes new classes of questions. Neither direction guarantees a valid match.
 
@@ -153,7 +153,7 @@ The system begins to recognize or model previously unavailable entities, relatio
 
 A useful conceptual sequence is:
 
-\[
+$$
 \text{Structural Change}
 \longrightarrow
 \text{New Detectable Distinctions}
@@ -161,7 +161,7 @@ A useful conceptual sequence is:
 \text{Revised Problem Formulation}
 \longrightarrow
 \text{New Evaluation and Action Possibilities}.
-\]
+$$
 
 Each arrow is a **hypothesis to be tested**, not a guaranteed implication.
 

@@ -119,9 +119,9 @@ Portable intelligence units, precedent exchange, and federated structural learni
 
 Let a system configuration be represented by
 
-\[
+$$
 \mathbf{s} = (B, D, P, C, I, E, G, L),
-\]
+$$
 
 where:
 
@@ -136,10 +136,10 @@ where:
 
 For task distribution \(\mathcal{T}\), define measured utility:
 
-\[
+$$
 U(\mathbf{s};\mathcal{T}) = \mathbb{E}_{t\sim\mathcal{T}}
 \left[Q_t - \lambda_c K_t - \lambda_r R_t\right],
-\]
+$$
 
 where \(Q_t\) is task-specific validated quality, \(K_t\) is total resource cost, and \(R_t\) is a risk penalty. The coefficients are chosen by an authorized evaluation process and must not be silently optimized by the candidate under test.
 
@@ -147,10 +147,10 @@ This is an **evaluation template**, not a universal intelligence equation. Each 
 
 A more useful experimental question is whether axes interact:
 
-\[
+$$
 \Delta_{ij} U = U(s_i^+,s_j^+) - U(s_i^+,s_j^0)
 - U(s_i^0,s_j^+) + U(s_i^0,s_j^0).
-\]
+$$
 
 Positive interaction suggests complementarity; negative interaction suggests interference or overhead. Results must be interpreted with confidence intervals and controlled task distributions.
 
@@ -193,10 +193,10 @@ The third strategy can be more efficient when task heterogeneity is high and rou
 
 For candidate plan \(\pi\), the runtime may seek:
 
-\[
+$$
 \pi^* \in \arg\max_{\pi\in\Pi_{\mathrm{authorized}}}
 \widehat{V}(\pi\mid t,e) - \lambda\widehat{K}(\pi),
-\]
+$$
 
 subject to resource, policy, and verification constraints. Here \(e\) denotes available evidence. Estimates should include uncertainty and must not be treated as proof of correctness.
 
