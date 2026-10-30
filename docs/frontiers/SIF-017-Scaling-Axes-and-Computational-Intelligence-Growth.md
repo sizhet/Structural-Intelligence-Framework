@@ -148,8 +148,7 @@ This is an **evaluation template**, not a universal intelligence equation. Each 
 A more useful experimental question is whether axes interact:
 
 $$
-\Delta_{ij} U = U(s_i^+,s_j^+) - U(s_i^+,s_j^0)
-- U(s_i^0,s_j^+) + U(s_i^0,s_j^0).
+\Delta_{ij} U = U(s_i^+,s_j^+) - U(s_i^+,s_j^0) - U(s_i^0,s_j^+) + U(s_i^0,s_j^0).
 $$
 
 Positive interaction suggests complementarity; negative interaction suggests interference or overhead. Results must be interpreted with confidence intervals and controlled task distributions.
