@@ -243,7 +243,7 @@ Recursive evaluator challenge must be **budgeted and risk-tiered**. Infinite met
 For candidate $s$, a conceptual disposition function is:
 
 $$
-D(s) = operatorname{GovernedReview}(Q_s, F_s, U_s, K_s, A_s)
+D(s) = \mathrm{GovernedReview}(Q_s, F_s, U_s, K_s, A_s)
 $$
 
 where $Q_s$ denotes measured quality, $F_s$ observed failure evidence, $U_s$ uncertainty, $K_s$ costs, and $A_s$ authorization constraints. This is a bookkeeping abstraction, **not** an automatic weighted score or deployment algorithm. In particular, authorization constraints cannot be overridden by a favorable aggregate metric.

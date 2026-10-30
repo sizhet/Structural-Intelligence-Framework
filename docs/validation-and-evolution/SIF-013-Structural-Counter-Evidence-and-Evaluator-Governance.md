@@ -199,7 +199,7 @@ SIF instead proposes **bounded recursive challenge**. Escalation is driven by ri
 A conceptual decision rule is:
 
 $$
-operatorname{ChallengeNext}(E_i) =
+\mathrm{ChallengeNext}(E_i) =
 \begin{cases}
 1, & \text{if expected reduction in decision risk exceeds review cost and budget remains},\\
 0, & \text{otherwise.}
