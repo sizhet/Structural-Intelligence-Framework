@@ -267,9 +267,9 @@ The mapping is bidirectional. A new task can seek a previously validated capabil
 A multi-hop relay path may contain a sequence of capabilities $C_1,\ldots,C_n$ and adapters $A_1,\ldots,A_{n-1}$. Path validity cannot be inferred solely from pairwise input/output type compatibility:
 
 $$
-operatorname{ValidPath}(P,X)
+\mathrm{ValidPath}(P,X)
 \not\Leftarrow
-\bigwedge_i operatorname{TypeMatch}(C_i,A_i,C_{i+1}).
+\bigwedge_i \mathrm{TypeMatch}(C_i,A_i,C_{i+1}).
 $$
 
 End-to-end validation must also examine preserved meaning, uncertainty, permissions, latency, resource use, and cumulative side effects.

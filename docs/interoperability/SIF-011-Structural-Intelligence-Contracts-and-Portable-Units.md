@@ -230,7 +230,7 @@ A relay envelope should preserve task identity, contract versions, context refer
 Let a task requirement be $R$, a candidate unit contract be $C$, and an execution context be $x$. A candidate match requires a set of independently checked conditions:
 
 $$
-operatorname{CandidateMatch}(R,C,x)
+\mathrm{CandidateMatch}(R,C,x)
 = T \land S \land X \land G \land B,
 $$
 
