@@ -83,15 +83,15 @@ $$
 M \subseteq V_P \times 2^{V_C} \times \mathcal{K},
 $$
 
-where a problem node may map to a *set or subgraph* of capabilities, and \(\mathcal{K}\) holds contextual conditions, adaptations, evidence, and governance decisions. The relation may be one-to-one, one-to-many, many-to-one, or absent.
+where a problem node may map to a *set or subgraph* of capabilities, and $\mathcal{K}$ holds contextual conditions, adaptations, evidence, and governance decisions. The relation may be one-to-one, one-to-many, many-to-one, or absent.
 
-For a candidate mapping \(m\), define an assessment vector:
+For a candidate mapping $m$, define an assessment vector:
 
 $$
 Q(m) = (f, e, r, k, a, u),
 $$
 
-with **fitness** \(f\), **evidence strength** \(e\), **risk** \(r\), **resource cost** \(k\), **authorization status** \(a\), and **unresolved uncertainty** \(u\). This is a vector, not an automatic scalar score: policy and safety constraints may be non-compensatory.
+with **fitness** $f$, **evidence strength** $e$, **risk** $r$, **resource cost** $k$, **authorization status** $a$, and **unresolved uncertainty** $u$. This is a vector, not an automatic scalar score: policy and safety constraints may be non-compensatory.
 
 ## 3. Two directions of structural mapping
 

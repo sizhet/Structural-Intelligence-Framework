@@ -43,7 +43,7 @@ A residual is not a guarantee of novelty. The same signal may be caused by noisy
 
 ## 2. What Is a Structural Residual?
 
-Let a task instance be represented by a problem specification \(P\), context \(C\), and admissible policy \(\Pi\). Let \(\mathcal{K}_t\) denote the available capability and precedent structures at time \(t\), and \(\mathcal{R}_t\) the available runtime and resource envelope. A SIF execution produces an outcome \(Y_t\) and an evidence record \(E_t\):
+Let a task instance be represented by a problem specification $P$, context $C$, and admissible policy $\Pi$. Let $\mathcal{K}_t$ denote the available capability and precedent structures at time $t$, and $\mathcal{R}_t$ the available runtime and resource envelope. A SIF execution produces an outcome $Y_t$ and an evidence record $E_t$:
 
 $$
 (Y_t,E_t) = operatorname{Execute}(P,C,\mathcal{K}_t,\mathcal{R}_t,\Pi).
@@ -158,7 +158,7 @@ $$
 \Delta\mathcal{K} = (\text{add},\text{modify},\text{compose},\text{replace},\text{retire}).
 $$
 
-The proposal should identify the baseline architecture, affected dependencies, expected benefits, risks, resource requirements, rollback procedure, and explicit falsification tests. Comparing \(\mathcal{K}_t\) with \(\mathcal{K}_t \oplus \Delta\mathcal{K}\) under matched conditions helps separate genuine improvement from changes in workload or evaluation.
+The proposal should identify the baseline architecture, affected dependencies, expected benefits, risks, resource requirements, rollback procedure, and explicit falsification tests. Comparing $\mathcal{K}_t$ with $\mathcal{K}_t \oplus \Delta\mathcal{K}$ under matched conditions helps separate genuine improvement from changes in workload or evaluation.
 
 ### 4.3 Acceptance is conditional
 

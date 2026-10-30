@@ -54,13 +54,13 @@ $$
 
 where:
 
-- \(S\): proposed structure, composition, or structural modification;
-- \(C\): context and applicability conditions;
-- \(T\): task family and success criteria;
-- \(B\): baseline and alternative explanations;
-- \(M\): measurement protocol;
-- \(E\): existing supporting and opposing evidence;
-- \(R\): risks, resource limits, and authorization constraints.
+- $S$: proposed structure, composition, or structural modification;
+- $C$: context and applicability conditions;
+- $T$: task family and success criteria;
+- $B$: baseline and alternative explanations;
+- $M$: measurement protocol;
+- $E$: existing supporting and opposing evidence;
+- $R$: risks, resource limits, and authorization constraints.
 
 This is a proposed research notation, not a standardized SIF data model. A practical implementation should map these fields to the Structural Intelligence Contract (SIC), Structural Precedent Registry (SPR), and evidence records.
 
@@ -240,13 +240,13 @@ Recursive evaluator challenge must be **budgeted and risk-tiered**. Infinite met
 
 ### 9.1 A bounded evidence decision
 
-For candidate \(s\), a conceptual disposition function is:
+For candidate $s$, a conceptual disposition function is:
 
 $$
 D(s) = operatorname{GovernedReview}(Q_s, F_s, U_s, K_s, A_s)
 $$
 
-where \(Q_s\) denotes measured quality, \(F_s\) observed failure evidence, \(U_s\) uncertainty, \(K_s\) costs, and \(A_s\) authorization constraints. This is a bookkeeping abstraction, **not** an automatic weighted score or deployment algorithm. In particular, authorization constraints cannot be overridden by a favorable aggregate metric.
+where $Q_s$ denotes measured quality, $F_s$ observed failure evidence, $U_s$ uncertainty, $K_s$ costs, and $A_s$ authorization constraints. This is a bookkeeping abstraction, **not** an automatic weighted score or deployment algorithm. In particular, authorization constraints cannot be overridden by a favorable aggregate metric.
 
 ## 10. Integration with the SIF Architecture
 

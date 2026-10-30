@@ -162,7 +162,7 @@ $$
 \mathcal{A}(p) = \{x : C_p(x) \land T_p(x) \land P_p(x) \land R_p(x)\},
 $$
 
-where \(C_p\) denotes context assumptions, \(T_p\) type compatibility, \(P_p\) policy eligibility, and \(R_p\) resource feasibility. This is a conceptual predicate, not a promise that all conditions are machine-decidable.
+where $C_p$ denotes context assumptions, $T_p$ type compatibility, $P_p$ policy eligibility, and $R_p$ resource feasibility. This is a conceptual predicate, not a promise that all conditions are machine-decidable.
 
 Applicability envelopes may include hard exclusions, uncertain boundaries, and empirical ranges. Unknown applicability should not be represented as confirmed applicability.
 
@@ -281,7 +281,7 @@ $$
 U(p\mid q) = w_s S(p,q) + w_e E(p,q) + w_t T(p,q) - w_r R(p,q) - w_c C(p,q),
 $$
 
-where \(S\) measures structural relevance, \(E\) evidence strength, \(T\) transferability, \(R\) estimated risk, and \(C\) resource cost. The weights are context-dependent and require calibration. No weighted sum may override a hard prohibition or missing authorization.
+where $S$ measures structural relevance, $E$ evidence strength, $T$ transferability, $R$ estimated risk, and $C$ resource cost. The weights are context-dependent and require calibration. No weighted sum may override a hard prohibition or missing authorization.
 
 A **Scoring Tree/Forest** can preserve multiple perspectives instead of collapsing every tradeoff into one opaque score. Disagreements among perspectives should be inspectable.
 
@@ -304,13 +304,13 @@ The last outcome is essential: the system must be allowed to say that its existi
 
 A legal precedent is often useful because a new case can be *distinguished* from it. The analogous SIF operation is **structural difference analysis**.
 
-Given a query \(q\) and precedent \(p\), define a structured residual:
+Given a query $q$ and precedent $p$, define a structured residual:
 
 $$
 \Delta(q,p) = \Delta_{context} \oplus \Delta_{types} \oplus \Delta_{constraints} \oplus \Delta_{capability} \oplus \Delta_{evidence} \oplus \Delta_{policy},
 $$
 
-where \(\oplus\) denotes a collection of typed differences, not necessarily numerical addition.
+where $\oplus$ denotes a collection of typed differences, not necessarily numerical addition.
 
 The residual determines whether to:
 

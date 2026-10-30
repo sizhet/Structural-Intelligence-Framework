@@ -149,13 +149,13 @@ The identifiers and fields above are **non-normative examples**. They illustrate
 
 ### 4.3 Compatibility is a judgment, not a Boolean shortcut
 
-Let a task requirement be \(R\), a candidate capability contract be \(C\), and the operating context be \(X\). A compatibility assessor may produce:
+Let a task requirement be $R$, a candidate capability contract be $C$, and the operating context be $X$. A compatibility assessor may produce:
 
 $$
 J(R,C,X) = (s, A, E, U),
 $$
 
-where \(s\) is a status such as `compatible`, `conditional`, `incompatible`, or `unknown`; \(A\) records necessary adaptations; \(E\) references supporting and opposing evidence; and \(U\) records unresolved uncertainty.
+where $s$ is a status such as `compatible`, `conditional`, `incompatible`, or `unknown`; $A$ records necessary adaptations; $E$ references supporting and opposing evidence; and $U$ records unresolved uncertainty.
 
 The judgment is **not** a proof that the component will succeed. It is an auditable decision input. For consequential uses, independent evaluation and authorization are separate required steps.
 
@@ -264,7 +264,7 @@ Structural Precedent Registry <--> Capability Map
 
 The mapping is bidirectional. A new task can seek a previously validated capability; a newly registered capability can also suggest previously infeasible tasks. Such reverse discovery is exploratory until tested against real requirements and constraints.
 
-A multi-hop relay path may contain a sequence of capabilities \(C_1,\ldots,C_n\) and adapters \(A_1,\ldots,A_{n-1}\). Path validity cannot be inferred solely from pairwise input/output type compatibility:
+A multi-hop relay path may contain a sequence of capabilities $C_1,\ldots,C_n$ and adapters $A_1,\ldots,A_{n-1}$. Path validity cannot be inferred solely from pairwise input/output type compatibility:
 
 $$
 operatorname{ValidPath}(P,X)

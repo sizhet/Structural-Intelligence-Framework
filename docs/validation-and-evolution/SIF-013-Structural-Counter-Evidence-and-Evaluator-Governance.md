@@ -55,14 +55,14 @@ $$
 
 where:
 
-- \(S\): identified structure and version;
-- \(P\): problem class and perspective;
-- \(K\): context and applicability conditions;
-- \(I, O\): input and output signatures;
-- \(A\): asserted behavior, mechanism, or performance;
-- \(E\): supporting evidence and known limitations;
-- \(G\): policy, authority, and resource constraints;
-- \(V\): validation protocol and evaluator version.
+- $S$: identified structure and version;
+- $P$: problem class and perspective;
+- $K$: context and applicability conditions;
+- $I, O$: input and output signatures;
+- $A$: asserted behavior, mechanism, or performance;
+- $E$: supporting evidence and known limitations;
+- $G$: policy, authority, and resource constraints;
+- $V$: validation protocol and evaluator version.
 
 A structural claim must be falsifiable at a stated scope. Broad statements such as “this planner is intelligent” or “this evaluator is reliable” should be decomposed into narrower propositions with observable failure criteria.
 
@@ -192,7 +192,7 @@ Evaluator independence may be assessed across organizational control, model line
 
 ## 6. Bounded Recursive Evaluator Challenge
 
-A naive response to evaluator fallibility is infinite recursion: evaluator \(E_1\) is judged by \(E_2\), which is judged by \(E_3\), and so on. This cannot be an operational requirement.
+A naive response to evaluator fallibility is infinite recursion: evaluator $E_1$ is judged by $E_2$, which is judged by $E_3$, and so on. This cannot be an operational requirement.
 
 SIF instead proposes **bounded recursive challenge**. Escalation is driven by risk, uncertainty, and the marginal value of additional evidence.
 

@@ -46,21 +46,21 @@ $$
 
 where:
 
-- \(D\): domain and environment;
-- \(T\): tasks and their sampling distribution;
-- \(M\): metrics and success criteria;
-- \(E\): admissible evidence and evaluation procedures;
-- \(R\): available resources and tools;
-- \(H\): relevant time horizon;
-- \(G\): governance and action boundaries.
+- $D$: domain and environment;
+- $T$: tasks and their sampling distribution;
+- $M$: metrics and success criteria;
+- $E$: admissible evidence and evaluation procedures;
+- $R$: available resources and tools;
+- $H$: relevant time horizon;
+- $G$: governance and action boundaries.
 
-A candidate system \(S\) can be evaluated relative to a comparator population \(B\) through a performance distribution, rather than a single unqualified score:
+A candidate system $S$ can be evaluated relative to a comparator population $B$ through a performance distribution, rather than a single unqualified score:
 
 $$
 \Delta_P(S,B)=\mathbb{E}_{t\sim T}[U_P(S,t)-U_P(B,t)].
 $$
 
-Here \(U_P\) is a perspective-specific utility or evaluation function, and uncertainty estimates must accompany empirical estimates of \(\Delta_P\). This expression is an **illustrative formalization**, not a universally accepted intelligence metric.
+Here $U_P$ is a perspective-specific utility or evaluation function, and uncertainty estimates must accompany empirical estimates of $\Delta_P$. This expression is an **illustrative formalization**, not a universally accepted intelligence metric.
 
 We use **perspective-relative superhuman performance** when a system demonstrably exceeds a defined human comparator under rigorous evaluation. The stronger label **Perspective ASI** is reserved, provisionally, for claims of exceptional, robust superiority across a *substantial family of tasks within a declared perspective*, including tests of adaptation, uncertainty, and adversarial stress. No universal numerical threshold is proposed.
 

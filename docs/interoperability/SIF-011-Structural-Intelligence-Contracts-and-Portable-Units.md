@@ -227,14 +227,14 @@ A relay envelope should preserve task identity, contract versions, context refer
 
 ### 6.1 Necessary checks
 
-Let a task requirement be \(R\), a candidate unit contract be \(C\), and an execution context be \(x\). A candidate match requires a set of independently checked conditions:
+Let a task requirement be $R$, a candidate unit contract be $C$, and an execution context be $x$. A candidate match requires a set of independently checked conditions:
 
 $$
 operatorname{CandidateMatch}(R,C,x)
 = T \land S \land X \land G \land B,
 $$
 
-where \(T\) denotes type compatibility, \(S\) semantic suitability, \(X\) contextual applicability, \(G\) governance feasibility, and \(B\) resource-budget feasibility. Evidence sufficiency should be evaluated separately and can result in a provisional or sandbox-only classification. This Boolean expression is an illustrative design abstraction, not a complete formal semantics.
+where $T$ denotes type compatibility, $S$ semantic suitability, $X$ contextual applicability, $G$ governance feasibility, and $B$ resource-budget feasibility. Evidence sufficiency should be evaluated separately and can result in a provisional or sandbox-only classification. This Boolean expression is an illustrative design abstraction, not a complete formal semantics.
 
 ### 6.2 Composition patterns
 
@@ -250,7 +250,7 @@ where \(T\) denotes type compatibility, \(S\) semantic suitability, \(X\) contex
 
 ### 6.3 Compositional evidence is not automatic
 
-If A and B have each been validated separately, the composition \(B\circ A\) is **not** thereby validated. The handoff can introduce distribution shifts, incompatible semantics, cumulative latency, or new failure paths. Composed systems require boundary tests and, when risks warrant, end-to-end adversarial evaluation.
+If A and B have each been validated separately, the composition $B\circ A$ is **not** thereby validated. The handoff can introduce distribution shifts, incompatible semantics, cumulative latency, or new failure paths. Composed systems require boundary tests and, when risks warrant, end-to-end adversarial evaluation.
 
 ### 6.4 Folding and unfolding
 

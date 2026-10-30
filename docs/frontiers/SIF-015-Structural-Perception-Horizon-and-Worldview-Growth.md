@@ -60,14 +60,14 @@ $$
 
 where:
 
-- \(D\): detectable and expressible distinctions;
-- \(R\): representable relations and dependencies;
-- \(G\): supported granularity and scale;
-- \(P\): accessible perspectives and objective frames;
-- \(U\): expressible uncertainty and unknowns;
-- \(V\): available tests, validators, and counter-evidence mechanisms;
-- \(C\): operating context and environmental assumptions;
-- \(B\): compute, data, time, and governance budgets.
+- $D$: detectable and expressible distinctions;
+- $R$: representable relations and dependencies;
+- $G$: supported granularity and scale;
+- $P$: accessible perspectives and objective frames;
+- $U$: expressible uncertainty and unknowns;
+- $V$: available tests, validators, and counter-evidence mechanisms;
+- $C$: operating context and environmental assumptions;
+- $B$: compute, data, time, and governance budgets.
 
 This tuple is a **research scaffold**, not a universal numeric metric. The components may be partially ordered, incomparable, or dependent on the task domain. A larger vocabulary does not necessarily imply a wider horizon.
 

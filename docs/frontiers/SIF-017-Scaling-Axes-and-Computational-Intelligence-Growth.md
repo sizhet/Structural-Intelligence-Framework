@@ -125,23 +125,23 @@ $$
 
 where:
 
-- \(B\): structural breadth;
-- \(D\): useful structural depth;
-- \(P\): guidance precision;
-- \(C\): available computational resources;
-- \(I\): interoperability fidelity;
-- \(E\): evidence and evaluation quality;
-- \(G\): governance adequacy;
-- \(L\): collective learning and reuse effectiveness.
+- $B$: structural breadth;
+- $D$: useful structural depth;
+- $P$: guidance precision;
+- $C$: available computational resources;
+- $I$: interoperability fidelity;
+- $E$: evidence and evaluation quality;
+- $G$: governance adequacy;
+- $L$: collective learning and reuse effectiveness.
 
-For task distribution \(\mathcal{T}\), define measured utility:
+For task distribution $\mathcal{T}$, define measured utility:
 
 $$
 U(\mathbf{s};\mathcal{T}) = \mathbb{E}_{t\sim\mathcal{T}}
 \left[Q_t - \lambda_c K_t - \lambda_r R_t\right],
 $$
 
-where \(Q_t\) is task-specific validated quality, \(K_t\) is total resource cost, and \(R_t\) is a risk penalty. The coefficients are chosen by an authorized evaluation process and must not be silently optimized by the candidate under test.
+where $Q_t$ is task-specific validated quality, $K_t$ is total resource cost, and $R_t$ is a risk penalty. The coefficients are chosen by an authorized evaluation process and must not be silently optimized by the candidate under test.
 
 This is an **evaluation template**, not a universal intelligence equation. Each axis requires a domain-specific measurement protocol. The model does not imply linearity, independence, or monotonicity.
 
@@ -191,14 +191,14 @@ The third strategy can be more efficient when task heterogeneity is high and rou
 
 ### 6.2 A Budgeted Dispatch Objective
 
-For candidate plan \(\pi\), the runtime may seek:
+For candidate plan $\pi$, the runtime may seek:
 
 $$
 \pi^* \in \arg\max_{\pi\in\Pi_{\mathrm{authorized}}}
 \widehat{V}(\pi\mid t,e) - \lambda\widehat{K}(\pi),
 $$
 
-subject to resource, policy, and verification constraints. Here \(e\) denotes available evidence. Estimates should include uncertainty and must not be treated as proof of correctness.
+subject to resource, policy, and verification constraints. Here $e$ denotes available evidence. Estimates should include uncertainty and must not be treated as proof of correctness.
 
 An illustrative decision policy:
 

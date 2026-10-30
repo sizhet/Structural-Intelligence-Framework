@@ -99,7 +99,7 @@ $$
 \mathcal{M}: (P, C, E, G) \rightarrow \{\text{reuse},\text{adapt},\text{compose},\text{explore}\}
 $$
 
-where \(P\) is the problem signature, \(C\) the available capability descriptions, \(E\) the evidence and counter-evidence, and \(G\) the governing constraints. This is a functional abstraction, not a specified scoring algorithm.
+where $P$ is the problem signature, $C$ the available capability descriptions, $E$ the evidence and counter-evidence, and $G$ the governing constraints. This is a functional abstraction, not a specified scoring algorithm.
 
 **Figure placement:** Insert `../../figures/Fig-003-Problem-Capability-Dual-Maps.png` after this section when available.
 
