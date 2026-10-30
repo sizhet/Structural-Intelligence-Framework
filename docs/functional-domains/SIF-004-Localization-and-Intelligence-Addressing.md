@@ -149,7 +149,7 @@ The procedure may be iterative: new evidence from a node can change the localiza
 Let $c$ be a capability candidate, $p$ a problem signature, and $\Gamma$ the relevant context. A conceptual selection rule is:
 
 $$
- c^* \in operatorname*{arg\,max}_{c\in\mathcal{C}_{\mathrm{admissible}}(p,\Gamma)}
+ c^* \in \mathrm*{arg\,max}_{c\in\mathcal{C}_{\mathrm{admissible}}(p,\Gamma)}
  S(c,p,\Gamma),
 $$
 
